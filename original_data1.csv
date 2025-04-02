@@ -1,0 +1,501 @@
+age,gender,family_history,genetic_factors,bmi,diet,physical_activity,alcohol_consumption,reproductive_history,smoking,estrogen_exposure,environmental_exposures,ethnicity,occupation,socioeconomic_status,marital_status,stress_levels,sleep_patterns,use_of_contraceptives,exposure_to_sunlight,dietary_supplements,urban_or_rural_residence,number_of_children,age_at_menarche,breastfeeding_duration,medication_history,use_of_hair_dyes_or_cosmetic_products,exposure_to_pesticides_or_chemicals,geographical_location,diagnosis
+75,Female,Yes,No,38.39402129433449,Poor,Moderate,High,Multiple,Current,High,High,Caucasian,Office,Low,Divorced,High,Average,No,Moderate,Yes,Urban,0,12,21,Yes,No,No,East,Benign
+66,Female,Yes,No,39.72829040219328,Average,Low,,Multiple,Never,High,Low,Hispanic,Service,Middle,Single,Low,Good,Yes,High,Yes,Urban,3,13,22,Yes,No,Yes,North,Malignant
+54,Female,No,No,25.923000964373426,Average,Moderate,,,Current,Moderate,Moderate,Caucasian,Service,Middle,Single,Moderate,Poor,Yes,High,No,Rural,1,13,22,Yes,No,No,East,Benign
+59,Female,No,No,28.754624765652245,Average,High,Moderate,,Former,Moderate,Low,African American,Service,Low,Divorced,Low,Poor,No,High,No,Rural,4,14,7,No,No,Yes,East,Malignant
+35,Female,Yes,Yes,21.5975251968705,Good,High,,,Never,High,High,Caucasian,Service,Low,Widowed,Low,Average,No,Low,No,Rural,1,15,11,Yes,No,No,West,Malignant
+27,Female,Yes,No,35.730358802587666,Average,Moderate,Moderate,,Former,High,Moderate,Caucasian,Unemployed,High,Widowed,Low,Good,Yes,Low,No,Rural,3,14,17,No,No,Yes,North,Malignant
+37,Female,Yes,Yes,30.18364929567228,Average,High,,,Current,Moderate,High,African American,Office,Low,Widowed,Moderate,Poor,No,Low,Yes,Urban,2,10,0,No,No,No,West,Benign
+43,Female,No,No,21.674921973820897,Average,Low,High,One,Former,Moderate,High,Hispanic,Service,Middle,Single,High,Good,Yes,Low,Yes,Rural,4,11,2,No,Yes,Yes,South,Benign
+47,Female,No,No,37.10199511898438,Poor,Moderate,Moderate,,Current,High,Moderate,Caucasian,Manual Labor,High,Single,Low,Good,No,Low,Yes,Urban,2,13,0,No,No,No,East,Malignant
+52,Female,Yes,Yes,31.53482764108224,Good,Low,Low,One,Never,Moderate,Moderate,African American,Manual Labor,High,Single,Low,Poor,No,Low,Yes,Rural,4,13,6,Yes,No,No,East,Benign
+38,Female,No,No,18.21495864322204,Average,High,High,,Never,Low,High,Hispanic,Manual Labor,High,Married,High,Poor,Yes,Moderate,No,Urban,4,11,7,No,Yes,Yes,South,Benign
+55,Female,Yes,Yes,34.24588260352918,Poor,High,,Multiple,Current,Moderate,High,Caucasian,Service,High,Married,Low,Poor,Yes,High,No,Urban,2,12,22,Yes,Yes,No,West,Benign
+65,Female,No,Yes,36.9643186099977,Average,Moderate,Low,,Never,Low,High,African American,Unemployed,Low,Married,Moderate,Good,No,High,No,Rural,0,11,6,Yes,No,No,East,Malignant
+61,Female,No,No,31.03170722905397,Good,Low,,One,Never,Moderate,Moderate,Caucasian,Service,Low,Widowed,Low,Average,No,Moderate,No,Urban,4,11,15,Yes,Yes,Yes,West,Malignant
+54,Female,Yes,No,18.79552837154477,Poor,Low,Moderate,Multiple,Former,High,Moderate,Asian,Office,Low,Single,Moderate,Average,No,Low,No,Rural,4,15,2,Yes,Yes,No,East,Malignant
+52,Female,Yes,Yes,38.47309472216616,Good,High,High,,Never,Low,High,Caucasian,Unemployed,Middle,Married,Low,Average,Yes,Low,Yes,Urban,1,16,17,Yes,Yes,No,East,Benign
+22,Male,No,Yes,23.16212580081998,Poor,Low,Moderate,,Never,Moderate,Moderate,African American,Unemployed,Middle,Married,Moderate,Good,Yes,Moderate,No,Rural,1,15,13,No,Yes,No,North,Benign
+31,Female,Yes,No,33.59933142792016,Poor,High,High,Multiple,Current,Low,Low,Asian,Manual Labor,Middle,Widowed,Moderate,Average,Yes,Low,Yes,Urban,1,10,1,No,No,Yes,North,Benign
+71,Female,No,No,20.29041228645166,Good,Low,High,One,Former,Low,Low,Caucasian,Service,Low,Single,Low,Average,Yes,High,Yes,Rural,0,12,17,Yes,No,Yes,West,Benign
+57,Female,No,Yes,28.71536221401659,Average,High,Low,One,Current,High,Moderate,Asian,Office,High,Married,High,Average,Yes,Moderate,No,Urban,1,16,9,No,Yes,No,East,Benign
+69,Female,No,Yes,26.67847812854077,Good,Low,High,One,Former,High,Moderate,Asian,Unemployed,High,Single,High,Poor,Yes,Moderate,Yes,Urban,4,11,15,Yes,No,Yes,South,Benign
+44,Female,Yes,Yes,28.107828904931708,Average,High,Moderate,,Current,High,Moderate,Hispanic,Office,High,Divorced,Moderate,Poor,Yes,Moderate,Yes,Urban,0,14,19,No,Yes,Yes,East,Benign
+74,Female,No,Yes,27.042626335747503,Average,Moderate,High,,Former,High,Moderate,Caucasian,Service,High,Divorced,Low,Good,Yes,High,No,Urban,2,12,8,No,Yes,Yes,East,Benign
+67,Female,No,No,35.499899137374044,Average,High,,,Never,Low,Low,African American,Office,Middle,Married,Low,Poor,No,Low,No,Rural,3,10,7,Yes,No,No,West,Benign
+36,Female,No,Yes,30.73085898859265,Average,High,Moderate,One,Never,Low,Moderate,Caucasian,Office,High,Single,Low,Average,No,Low,Yes,Rural,3,12,17,No,No,Yes,East,Benign
+73,Female,Yes,No,36.20583370247124,Good,Low,Low,,Current,High,High,African American,Unemployed,High,Widowed,High,Good,No,Moderate,Yes,Rural,0,10,7,Yes,Yes,Yes,South,Benign
+59,Male,Yes,No,35.20461792874849,Poor,Low,,,Never,High,Low,Asian,Unemployed,Middle,Divorced,Low,Poor,No,Moderate,No,Urban,0,16,19,No,No,Yes,East,Benign
+63,Female,No,Yes,26.54827822794761,Poor,High,High,Multiple,Former,High,Moderate,Asian,Office,Middle,Divorced,Low,Average,No,Low,Yes,Urban,1,12,0,No,Yes,Yes,South,Malignant
+79,Female,No,No,27.79671561005864,Poor,High,,One,Current,Low,Low,Hispanic,Unemployed,Middle,Single,Moderate,Average,Yes,Moderate,No,Urban,1,10,12,Yes,Yes,Yes,North,Malignant
+26,Female,Yes,Yes,32.31930211903827,Poor,Low,Moderate,,Never,Moderate,Moderate,Hispanic,Service,High,Divorced,High,Average,Yes,Moderate,Yes,Rural,1,15,21,Yes,Yes,Yes,North,Benign
+21,Female,Yes,Yes,39.469222608021184,Average,Moderate,High,Multiple,Current,Low,High,Hispanic,Office,High,Married,Moderate,Poor,Yes,High,Yes,Urban,1,14,3,Yes,No,No,South,Benign
+35,Female,Yes,Yes,25.135342568538263,Good,Moderate,Low,Multiple,Never,Moderate,Low,Asian,Unemployed,Middle,Divorced,Low,Average,Yes,High,No,Urban,0,10,0,No,No,Yes,North,Malignant
+60,Female,No,Yes,23.26196229275036,Poor,Moderate,,One,Former,Moderate,High,Asian,Unemployed,Low,Married,Moderate,Average,Yes,Moderate,No,Rural,0,11,18,Yes,No,No,East,Benign
+34,Female,Yes,Yes,28.937844808185403,Poor,High,High,One,Never,High,Moderate,African American,Manual Labor,Middle,Single,High,Average,No,High,Yes,Rural,4,14,20,No,No,No,West,Benign
+48,Female,No,Yes,23.324990348975604,Poor,Low,High,One,Never,Low,Moderate,Asian,Unemployed,Middle,Divorced,Low,Poor,Yes,Low,No,Rural,1,14,19,Yes,Yes,No,South,Malignant
+54,Female,No,No,37.36173992635209,Average,High,,One,Current,Moderate,High,Caucasian,Service,High,Single,Low,Good,No,Low,No,Rural,1,12,22,No,Yes,No,South,Benign
+57,Female,Yes,No,31.337564630521506,Good,High,High,,Never,Moderate,High,Caucasian,Office,Low,Divorced,Moderate,Poor,No,Moderate,Yes,Rural,2,10,21,No,Yes,Yes,North,Benign
+79,Female,Yes,No,34.33954346639958,Good,High,Low,Multiple,Current,High,Moderate,African American,Unemployed,Low,Widowed,Moderate,Poor,Yes,Low,No,Rural,2,10,21,No,Yes,Yes,South,Benign
+47,Female,Yes,No,26.71579921540362,Average,Low,Low,,Never,Low,High,Caucasian,Unemployed,High,Single,Low,Average,No,High,No,Rural,2,11,5,No,No,No,South,Benign
+28,Female,Yes,No,32.96502133348841,Poor,High,High,,Former,Low,Moderate,African American,Office,High,Widowed,High,Average,No,Low,Yes,Rural,2,11,4,Yes,Yes,No,South,Benign
+60,Female,Yes,No,28.933196623928268,Poor,High,Moderate,One,Never,Low,Moderate,African American,Manual Labor,High,Widowed,Low,Poor,No,Low,Yes,Rural,2,11,14,No,Yes,No,South,Benign
+55,Female,No,Yes,21.953028395145324,Poor,Low,Moderate,,Current,Moderate,Low,Caucasian,Service,High,Divorced,Low,Good,Yes,High,Yes,Rural,4,15,5,Yes,No,No,East,Benign
+48,Female,Yes,Yes,21.30107062326765,Average,Moderate,Moderate,One,Never,Low,Low,Asian,Office,Low,Widowed,Moderate,Poor,Yes,High,Yes,Urban,2,12,16,No,Yes,Yes,South,Benign
+23,Female,No,No,20.3450466667758,Average,Low,Low,,Current,High,Low,Asian,Service,High,Single,High,Good,No,Moderate,Yes,Urban,0,11,10,Yes,No,Yes,South,Malignant
+63,Female,Yes,Yes,35.63801782753542,Good,Moderate,Moderate,,Current,Moderate,High,African American,Service,Low,Widowed,Moderate,Good,No,Moderate,No,Rural,1,11,19,No,No,Yes,North,Malignant
+55,Female,No,No,27.64953922217099,Average,High,Moderate,One,Never,High,Low,Hispanic,Unemployed,Middle,Married,Low,Average,No,Low,No,Rural,2,10,17,No,No,No,South,Benign
+58,Female,No,No,28.57115283967224,Poor,Low,High,Multiple,Never,Moderate,Moderate,Caucasian,Unemployed,High,Married,Low,Good,No,Moderate,Yes,Rural,0,15,5,Yes,Yes,No,South,Malignant
+30,Female,No,No,29.38965615446365,Good,High,,Multiple,Former,Low,Low,African American,Unemployed,Low,Married,High,Good,No,High,No,Rural,1,15,4,Yes,No,Yes,East,Benign
+46,Female,No,No,26.08575729041369,Good,Low,,,Current,High,Low,Caucasian,Unemployed,Middle,Married,Moderate,Poor,No,Low,Yes,Rural,2,13,11,Yes,Yes,No,North,Benign
+43,Female,Yes,No,21.68461680969953,Poor,Low,,,Current,High,Low,Asian,Service,High,Married,Moderate,Good,Yes,Moderate,No,Rural,0,10,0,No,No,No,West,Benign
+63,Female,No,Yes,25.610569836033186,Good,Moderate,Low,One,Former,Low,High,African American,Manual Labor,Low,Widowed,Low,Good,No,Moderate,No,Rural,2,13,2,No,Yes,No,East,Benign
+68,Female,Yes,No,32.49548034511846,Average,High,Low,,Current,Moderate,Moderate,Hispanic,Service,Low,Widowed,High,Poor,No,Moderate,Yes,Rural,2,14,14,Yes,No,Yes,East,Benign
+36,Female,Yes,No,35.72474336490117,Good,Low,Low,Multiple,Current,High,Moderate,African American,Unemployed,High,Divorced,Low,Poor,Yes,Moderate,Yes,Urban,3,16,12,Yes,Yes,Yes,East,Benign
+64,Female,Yes,Yes,34.8258156198659,Poor,High,Low,Multiple,Current,Moderate,Low,Asian,Service,High,Married,High,Poor,No,Moderate,Yes,Urban,2,14,20,No,No,No,North,Benign
+48,Female,Yes,Yes,30.47435774170669,Good,Low,High,,Never,Moderate,Low,Caucasian,Service,High,Single,Moderate,Good,Yes,High,Yes,Urban,2,16,0,No,No,Yes,West,Malignant
+58,Female,No,Yes,28.960305761969057,Poor,Low,Low,One,Current,Moderate,High,Hispanic,Unemployed,High,Widowed,Low,Good,Yes,Moderate,Yes,Rural,2,11,15,No,Yes,No,East,Benign
+52,Female,No,Yes,39.70586270509463,Good,Low,Moderate,One,Current,Moderate,High,Hispanic,Service,High,Married,Moderate,Average,No,High,No,Urban,0,12,19,Yes,Yes,Yes,West,Benign
+22,Female,No,Yes,30.48589866175428,Poor,Moderate,,,Current,Moderate,Moderate,Hispanic,Service,Low,Married,Moderate,Poor,No,Low,No,Urban,4,16,13,No,No,Yes,East,Malignant
+64,Female,Yes,Yes,20.644599218153385,Poor,Moderate,Low,One,Never,Low,High,Caucasian,Office,Middle,Widowed,Moderate,Good,Yes,High,Yes,Urban,2,15,6,Yes,No,No,West,Malignant
+69,Female,No,No,33.95566852913301,Poor,Moderate,Moderate,One,Current,Moderate,Moderate,Caucasian,Service,High,Widowed,High,Good,Yes,Moderate,Yes,Rural,4,11,20,Yes,No,No,South,Benign
+79,Female,No,No,39.01736310308642,Good,Low,Low,One,Never,High,Low,Asian,Service,High,Married,High,Average,No,Low,Yes,Rural,0,13,19,No,Yes,No,North,Benign
+68,Female,No,No,29.55359444067533,Good,High,High,,Never,High,High,Hispanic,Unemployed,High,Married,Low,Poor,Yes,High,Yes,Urban,3,12,7,No,Yes,Yes,West,Benign
+20,Female,Yes,Yes,22.221081143812345,Good,High,Moderate,Multiple,Never,Moderate,High,Hispanic,Unemployed,Low,Widowed,High,Poor,Yes,Moderate,Yes,Urban,2,16,22,Yes,Yes,Yes,South,Benign
+67,Female,Yes,No,20.15781677725338,Poor,Low,High,Multiple,Current,High,Low,Hispanic,Office,High,Single,High,Average,No,Low,No,Urban,2,10,7,Yes,Yes,Yes,East,Benign
+59,Female,No,No,28.70671671134346,Poor,Low,Moderate,,Never,High,Low,African American,Office,Middle,Single,High,Good,No,High,Yes,Rural,3,13,0,Yes,No,Yes,East,Malignant
+47,Female,No,No,35.98055093917486,Average,High,Low,One,Current,Low,High,Hispanic,Manual Labor,Low,Widowed,Moderate,Poor,Yes,Low,No,Urban,1,16,3,Yes,No,No,West,Malignant
+71,Female,Yes,Yes,24.737579657305456,Average,Low,Low,,Current,Low,Low,Hispanic,Office,Middle,Divorced,High,Average,No,Low,No,Urban,0,12,14,Yes,No,Yes,East,Malignant
+74,Female,Yes,No,23.43627114822322,Good,Low,Moderate,Multiple,Current,High,Moderate,Asian,Service,Low,Widowed,Moderate,Average,Yes,Low,No,Rural,3,10,20,No,No,No,West,Benign
+63,Female,Yes,No,18.166383249519125,Poor,Low,,Multiple,Never,Moderate,Low,Caucasian,Manual Labor,High,Single,High,Average,Yes,Low,Yes,Urban,4,16,18,Yes,Yes,Yes,South,Benign
+67,Female,No,Yes,26.37371245648476,Average,Moderate,High,Multiple,Never,Low,Low,Caucasian,Service,High,Married,High,Average,No,Low,No,Urban,1,10,6,Yes,No,Yes,North,Malignant
+28,Female,No,No,27.90816059768008,Good,Moderate,Moderate,Multiple,Never,Low,Moderate,Asian,Unemployed,High,Divorced,High,Poor,No,High,No,Rural,0,10,7,Yes,No,No,North,Malignant
+79,Female,No,Yes,30.271235182140547,Poor,Low,,Multiple,Never,Moderate,Moderate,Asian,Unemployed,Low,Widowed,High,Average,No,Moderate,No,Urban,1,12,9,No,Yes,No,South,Malignant
+51,Female,Yes,No,23.017754982876514,Good,High,,Multiple,Never,High,High,Caucasian,Manual Labor,Low,Divorced,Low,Poor,Yes,Moderate,No,Urban,2,13,3,Yes,Yes,No,East,Benign
+71,Female,Yes,No,20.1017769043627,Average,Low,Moderate,,Former,Moderate,High,Asian,Office,Low,Single,Low,Good,Yes,Low,Yes,Urban,3,16,15,No,No,No,South,Malignant
+60,Female,No,No,33.93545397683231,Poor,High,,One,Never,High,Moderate,Caucasian,Unemployed,Low,Divorced,High,Poor,No,High,No,Urban,1,10,19,No,No,No,South,Benign
+22,Female,Yes,No,26.599931909921324,Average,Low,Low,Multiple,Current,Low,High,African American,Office,Low,Married,High,Good,Yes,Moderate,Yes,Urban,1,14,3,No,No,No,North,Benign
+56,Female,No,No,28.638004227838344,Poor,Low,Low,,Never,High,High,Asian,Manual Labor,Low,Married,Low,Poor,No,Moderate,No,Urban,0,12,15,No,No,Yes,South,Benign
+66,Female,No,Yes,33.997719534858774,Average,High,Moderate,,Never,High,Low,Hispanic,Office,Low,Widowed,High,Good,Yes,Moderate,No,Urban,3,14,18,No,No,Yes,West,Benign
+52,Female,No,Yes,20.87562828828439,Good,High,High,,Former,Low,Low,Asian,Office,High,Widowed,Moderate,Poor,No,Low,No,Urban,1,12,4,Yes,No,No,South,Benign
+65,Female,No,Yes,27.15538795995475,Average,Low,Moderate,One,Never,Low,High,Hispanic,Service,Low,Single,High,Good,Yes,Moderate,No,Rural,0,11,22,Yes,Yes,Yes,East,Benign
+63,Female,Yes,No,29.343112628743505,Good,Low,Low,One,Current,High,Low,Hispanic,Service,Low,Widowed,Moderate,Good,No,Moderate,No,Urban,0,13,12,Yes,Yes,No,South,Benign
+25,Female,No,No,27.27786039121602,Good,High,Moderate,,Never,Low,Low,Hispanic,Manual Labor,High,Widowed,High,Good,No,High,Yes,Rural,3,14,6,Yes,Yes,Yes,South,Benign
+36,Female,No,Yes,39.11068617506274,Average,High,High,,Never,High,High,Hispanic,Unemployed,High,Married,Moderate,Average,Yes,High,No,Rural,3,13,6,No,No,Yes,East,Benign
+28,Female,Yes,No,33.031456622372204,Average,Moderate,,One,Former,Moderate,Moderate,African American,Service,High,Widowed,Moderate,Good,Yes,High,Yes,Rural,0,12,15,Yes,Yes,No,North,Benign
+37,Female,No,Yes,19.88448149112148,Average,Moderate,,,Current,High,High,Hispanic,Office,Low,Married,Moderate,Average,Yes,High,Yes,Rural,4,14,7,Yes,Yes,Yes,West,Benign
+63,Female,Yes,Yes,20.894489072799715,Good,Moderate,High,Multiple,Never,High,Low,Caucasian,Manual Labor,High,Married,Moderate,Average,Yes,Low,Yes,Rural,4,15,10,Yes,Yes,Yes,West,Benign
+51,Female,No,No,32.88329448709942,Average,Low,Low,,Current,Low,Moderate,Asian,Office,High,Married,Moderate,Good,No,High,Yes,Rural,3,14,12,No,Yes,Yes,North,Malignant
+46,Female,Yes,No,21.22022782756948,Average,High,Moderate,One,Current,Moderate,Low,Asian,Office,Low,Divorced,Moderate,Average,No,High,No,Rural,4,16,10,Yes,No,No,North,Benign
+38,Female,Yes,Yes,33.787150844479875,Poor,Moderate,Low,,Never,High,Moderate,African American,Manual Labor,Low,Married,High,Poor,Yes,Moderate,Yes,Urban,3,13,13,No,Yes,Yes,East,Benign
+25,Female,No,Yes,22.664986477980985,Poor,Low,Moderate,One,Former,Low,Moderate,Caucasian,Manual Labor,Middle,Widowed,Low,Poor,No,Low,No,Urban,4,14,10,Yes,Yes,No,North,Benign
+73,Female,No,Yes,31.21307533393358,Good,Moderate,High,,Current,Moderate,High,Asian,Service,High,Widowed,High,Good,Yes,Low,No,Rural,4,12,8,Yes,No,No,West,Malignant
+21,Female,Yes,Yes,22.734441184379225,Poor,Low,,One,Never,Moderate,Moderate,Caucasian,Office,High,Widowed,High,Good,No,Low,Yes,Rural,2,15,9,Yes,Yes,No,North,Benign
+52,Female,Yes,Yes,29.87905686617232,Good,Low,High,,Never,Low,High,Asian,Manual Labor,High,Divorced,Low,Poor,No,High,Yes,Rural,4,15,12,No,Yes,No,South,Benign
+30,Female,Yes,Yes,25.11417436654145,Good,Low,,One,Never,Low,Low,African American,Service,High,Married,Low,Poor,Yes,Moderate,No,Rural,1,13,10,No,No,No,West,Malignant
+63,Female,Yes,No,21.34454676883026,Average,Low,High,,Never,Low,High,African American,Service,Middle,Divorced,Moderate,Poor,Yes,Low,Yes,Rural,1,10,8,Yes,Yes,No,South,Benign
+24,Female,Yes,No,21.85666473186852,Good,Moderate,,Multiple,Current,High,Moderate,African American,Service,Low,Married,Low,Good,Yes,High,Yes,Urban,1,15,12,Yes,No,Yes,West,Benign
+73,Female,No,No,22.634568158124665,Average,Low,,One,Former,High,Moderate,Caucasian,Unemployed,Middle,Single,High,Poor,No,Low,No,Rural,0,10,5,Yes,No,No,South,Benign
+33,Female,Yes,Yes,37.07469291469387,Good,High,High,,Never,High,Low,Hispanic,Manual Labor,Middle,Single,Low,Average,No,Moderate,Yes,Urban,3,12,18,No,Yes,No,East,Benign
+54,Female,No,No,33.29077503488817,Good,Moderate,Moderate,,Never,Low,Low,Hispanic,Service,Low,Widowed,High,Good,No,Low,Yes,Urban,4,11,14,Yes,No,No,South,Malignant
+55,Female,Yes,Yes,19.728726937410457,Average,High,Low,One,Never,Low,High,Caucasian,Service,Low,Married,Moderate,Good,Yes,High,Yes,Rural,4,11,3,No,No,Yes,South,Benign
+68,Female,No,No,24.267203843162303,Poor,Low,Low,,Never,Moderate,Moderate,Asian,Office,Low,Divorced,Moderate,Good,Yes,Moderate,No,Rural,1,12,21,Yes,Yes,Yes,East,Benign
+49,Female,Yes,Yes,35.176754893505674,Poor,High,Low,Multiple,Current,High,Moderate,Hispanic,Manual Labor,High,Widowed,Moderate,Average,Yes,Low,Yes,Rural,4,13,12,No,Yes,No,West,Malignant
+41,Female,Yes,No,33.168229321019844,Good,Moderate,High,Multiple,Former,Moderate,High,African American,Unemployed,Low,Widowed,Low,Average,No,Moderate,No,Urban,4,11,2,Yes,Yes,No,East,Benign
+59,Female,Yes,Yes,37.6721992426106,Average,High,Moderate,Multiple,Former,Low,Moderate,Hispanic,Service,Middle,Married,Low,Poor,No,Moderate,No,Rural,3,10,12,Yes,Yes,Yes,South,Benign
+61,Female,No,Yes,29.880262121299232,Poor,High,Moderate,,Never,Low,Low,Hispanic,Manual Labor,Middle,Single,Low,Poor,Yes,Moderate,No,Rural,1,11,14,No,Yes,Yes,East,Benign
+37,Female,Yes,Yes,30.21799812062789,Good,High,High,,Current,Low,Low,African American,Unemployed,Low,Divorced,Low,Good,No,Low,Yes,Urban,3,12,17,No,Yes,Yes,South,Malignant
+25,Female,Yes,No,31.356068793953177,Poor,Moderate,Low,One,Former,High,High,Asian,Office,High,Divorced,Low,Poor,No,Moderate,No,Urban,1,12,1,No,No,No,West,Benign
+58,Female,Yes,Yes,30.76379212300131,Poor,Low,Low,One,Former,High,Moderate,African American,Office,Middle,Widowed,Low,Poor,Yes,Moderate,No,Urban,1,10,4,No,No,Yes,North,Malignant
+49,Female,No,Yes,23.14166580202953,Poor,Moderate,Moderate,One,Former,Low,Low,Caucasian,Service,Middle,Married,Low,Average,Yes,Low,No,Urban,1,10,12,No,No,No,West,Benign
+27,Female,No,No,30.877796016728546,Good,Low,Low,Multiple,Former,Low,Low,African American,Service,Middle,Divorced,High,Average,No,High,No,Urban,1,12,22,Yes,No,Yes,East,Malignant
+24,Female,No,Yes,19.25591083396493,Good,High,High,One,Former,Moderate,Moderate,Hispanic,Office,High,Married,Low,Average,No,Moderate,Yes,Rural,1,16,8,No,No,Yes,East,Benign
+24,Female,No,Yes,24.859954927875712,Average,Low,Low,One,Former,High,Moderate,African American,Office,High,Widowed,High,Average,Yes,High,No,Rural,1,11,20,Yes,Yes,No,South,Malignant
+79,Female,Yes,Yes,29.725071304129376,Poor,Moderate,,,Never,High,High,Hispanic,Unemployed,Middle,Married,Low,Poor,No,Low,Yes,Urban,2,12,21,Yes,Yes,No,South,Benign
+57,Female,Yes,Yes,33.542465982711825,Poor,Low,High,Multiple,Former,High,Low,Caucasian,Manual Labor,Middle,Divorced,High,Average,No,Low,Yes,Rural,3,13,10,No,No,No,North,Benign
+59,Female,Yes,Yes,18.24268781743024,Good,Moderate,Moderate,,Former,Low,High,Asian,Service,High,Single,Low,Poor,Yes,Moderate,No,Rural,3,14,10,Yes,No,Yes,South,Benign
+23,Female,Yes,Yes,36.47694866306784,Average,High,Low,Multiple,Former,High,Low,Hispanic,Office,Middle,Married,Moderate,Average,No,Low,No,Urban,1,14,1,Yes,No,No,East,Benign
+71,Female,No,No,28.689178702099163,Average,Low,,One,Former,Moderate,Moderate,Caucasian,Unemployed,Low,Divorced,High,Good,Yes,Moderate,Yes,Rural,0,12,22,No,Yes,No,South,Benign
+61,Female,No,No,22.307115685038013,Average,Low,,,Former,Moderate,High,Caucasian,Unemployed,Middle,Divorced,Low,Good,No,Low,Yes,Urban,2,10,19,No,No,No,East,Benign
+48,Female,No,No,29.435026868232388,Good,Low,Moderate,One,Never,Low,Low,Hispanic,Manual Labor,High,Divorced,High,Average,Yes,High,No,Rural,2,12,6,Yes,Yes,No,South,Benign
+34,Female,Yes,Yes,29.58085854059449,Good,Low,High,Multiple,Former,Moderate,Moderate,Asian,Service,Low,Married,High,Poor,Yes,High,Yes,Rural,0,10,19,No,Yes,Yes,West,Malignant
+52,Female,No,No,28.19686896361259,Average,High,Moderate,One,Never,Low,High,Caucasian,Unemployed,Low,Single,Low,Average,No,Moderate,Yes,Urban,3,14,10,Yes,Yes,Yes,East,Benign
+61,Female,No,No,30.553414426054253,Average,Moderate,Moderate,One,Current,Low,Moderate,Hispanic,Unemployed,Middle,Single,High,Good,Yes,High,Yes,Rural,4,15,15,Yes,Yes,Yes,North,Benign
+58,Female,No,Yes,19.747226117757705,Average,Low,,,Former,High,Low,Asian,Service,High,Divorced,Low,Average,Yes,Low,No,Rural,4,16,15,Yes,Yes,No,North,Malignant
+54,Female,No,No,28.0042768239449,Poor,High,Moderate,Multiple,Former,Low,High,African American,Service,Low,Single,High,Average,Yes,High,Yes,Rural,4,12,10,No,No,Yes,South,Benign
+27,Female,Yes,Yes,31.37391204145578,Average,Moderate,Moderate,,Never,Moderate,Low,Hispanic,Office,Low,Widowed,Moderate,Average,Yes,High,No,Rural,2,11,13,No,No,Yes,West,Benign
+60,Female,Yes,No,26.36430361328885,Good,Low,Low,,Never,High,High,African American,Manual Labor,Middle,Married,High,Good,Yes,Moderate,Yes,Rural,2,12,12,Yes,No,No,West,Benign
+40,Female,No,Yes,18.56786195288872,Good,Moderate,Low,,Former,Moderate,Moderate,Caucasian,Unemployed,Low,Widowed,Moderate,Poor,Yes,Moderate,No,Urban,0,11,15,No,Yes,Yes,North,Benign
+61,Female,No,Yes,35.99235275585048,Average,Low,High,Multiple,Never,High,Moderate,Caucasian,Unemployed,High,Single,Low,Average,No,High,Yes,Urban,4,15,2,No,No,Yes,West,Benign
+63,Female,No,Yes,18.806771392537943,Poor,Moderate,,,Current,Moderate,Low,African American,Service,Middle,Divorced,High,Good,No,Low,Yes,Rural,2,13,13,No,Yes,Yes,West,Benign
+42,Female,Yes,Yes,19.48747639902873,Good,Low,High,One,Former,Moderate,Low,Asian,Office,Middle,Single,Moderate,Average,No,Moderate,No,Rural,1,14,22,No,Yes,Yes,West,Malignant
+77,Female,No,Yes,37.16132072241388,Poor,Low,Low,,Current,Low,High,African American,Manual Labor,Low,Widowed,Moderate,Average,Yes,High,Yes,Rural,3,15,18,Yes,Yes,No,South,Benign
+79,Female,No,Yes,27.983369910440064,Poor,Moderate,Moderate,,Former,High,Moderate,Hispanic,Manual Labor,High,Single,Low,Average,No,Low,Yes,Rural,4,13,8,No,No,Yes,South,Benign
+41,Female,No,Yes,21.01641352603798,Good,Low,High,,Former,High,Low,Hispanic,Service,Low,Single,High,Good,No,Moderate,Yes,Urban,3,10,5,Yes,Yes,No,East,Malignant
+20,Female,Yes,Yes,18.955075722806026,Poor,Low,High,Multiple,Former,Low,Moderate,Asian,Office,High,Divorced,Low,Good,No,Moderate,No,Rural,0,13,16,Yes,Yes,No,North,Benign
+77,Female,Yes,Yes,18.86555789470721,Good,High,High,,Former,Low,Low,Asian,Office,Low,Widowed,High,Good,Yes,Low,Yes,Rural,2,14,4,No,No,No,North,Benign
+23,Female,No,Yes,33.8224391219898,Poor,Moderate,Low,One,Former,Moderate,Low,Asian,Manual Labor,High,Married,Moderate,Poor,Yes,High,No,Rural,2,10,0,No,No,No,West,Benign
+62,Female,No,Yes,35.212480649282014,Average,Low,Low,,Current,High,High,Hispanic,Office,Low,Divorced,Low,Average,Yes,High,No,Urban,3,10,12,No,No,No,West,Malignant
+49,Female,Yes,Yes,32.00146548996001,Good,Low,,,Former,High,Moderate,Hispanic,Manual Labor,High,Divorced,Low,Poor,Yes,Moderate,Yes,Rural,1,14,11,No,No,Yes,West,Benign
+43,Female,No,Yes,20.919746588947326,Good,Low,Low,,Current,High,High,Hispanic,Service,High,Single,Low,Good,Yes,Moderate,No,Rural,0,11,23,No,Yes,No,East,Benign
+47,Female,Yes,Yes,30.48086883183588,Average,Low,Low,Multiple,Never,Moderate,Moderate,African American,Unemployed,Middle,Widowed,Low,Poor,No,Moderate,No,Urban,4,11,1,Yes,No,No,West,Benign
+21,Female,Yes,No,23.669023547246702,Poor,Low,High,Multiple,Current,Low,High,African American,Manual Labor,High,Married,Low,Average,No,Moderate,Yes,Urban,3,13,16,No,No,No,North,Benign
+47,Female,No,No,26.06215376717076,Average,Low,Low,,Never,Moderate,Moderate,African American,Manual Labor,High,Widowed,High,Average,No,Moderate,Yes,Rural,3,11,16,Yes,Yes,Yes,East,Benign
+52,Female,No,Yes,20.41419637090508,Poor,High,Low,Multiple,Former,Low,Moderate,Hispanic,Unemployed,Low,Married,Moderate,Good,No,Low,Yes,Rural,0,14,7,No,No,Yes,West,Benign
+33,Female,Yes,No,23.22595314832531,Average,High,Moderate,One,Former,High,Moderate,African American,Service,Low,Single,Low,Poor,Yes,Low,No,Rural,3,11,21,No,No,No,West,Benign
+58,Female,No,No,24.84876938143208,Good,High,Moderate,Multiple,Never,Low,High,Caucasian,Unemployed,Middle,Married,High,Average,Yes,High,Yes,Urban,4,10,22,Yes,No,Yes,East,Malignant
+73,Female,No,No,23.644381241430004,Good,Low,Low,Multiple,Never,High,Low,African American,Unemployed,Low,Widowed,Low,Good,No,High,Yes,Rural,0,12,7,Yes,Yes,No,South,Malignant
+63,Female,Yes,No,20.30049248735681,Poor,High,Moderate,Multiple,Former,High,Moderate,Asian,Unemployed,Middle,Divorced,Moderate,Poor,Yes,High,Yes,Urban,1,15,22,No,Yes,Yes,North,Benign
+76,Female,Yes,Yes,36.99334029058015,Average,Low,Low,Multiple,Current,Low,High,Asian,Office,Middle,Married,High,Poor,Yes,High,No,Urban,3,15,12,Yes,Yes,Yes,South,Benign
+78,Female,No,No,21.9916436493038,Good,Moderate,High,One,Former,High,Moderate,African American,Manual Labor,Low,Single,Moderate,Average,Yes,High,No,Rural,3,14,0,No,No,No,South,Benign
+38,Female,Yes,No,20.32462305375837,Average,Low,Low,Multiple,Current,Low,Low,African American,Office,High,Single,Low,Poor,No,High,Yes,Rural,2,10,2,No,No,No,South,Benign
+27,Female,Yes,Yes,28.975539375929834,Poor,Low,,,Former,Moderate,High,Caucasian,Service,Middle,Single,High,Poor,No,High,Yes,Urban,1,15,18,No,No,No,North,Benign
+60,Female,Yes,Yes,21.734673911925896,Average,High,,,Never,High,High,Hispanic,Service,High,Married,Moderate,Good,No,Moderate,Yes,Rural,0,10,17,No,Yes,Yes,East,Benign
+63,Female,Yes,Yes,19.327745847792404,Good,Low,Low,Multiple,Former,High,Moderate,African American,Office,Low,Divorced,High,Good,Yes,Moderate,No,Urban,1,16,18,No,Yes,No,West,Malignant
+59,Female,No,No,26.732312076435115,Poor,Low,High,Multiple,Current,High,Moderate,Hispanic,Service,High,Widowed,Low,Poor,No,Low,Yes,Urban,2,13,21,Yes,No,No,East,Benign
+77,Female,Yes,Yes,34.13951637235084,Poor,High,Moderate,One,Never,High,Low,African American,Manual Labor,Middle,Divorced,Moderate,Average,No,High,Yes,Urban,2,11,8,No,Yes,Yes,South,Malignant
+35,Female,Yes,No,38.39791202854796,Poor,High,,One,Current,Moderate,Low,Hispanic,Manual Labor,High,Married,High,Good,Yes,Low,No,Rural,4,14,6,No,No,No,West,Benign
+34,Female,No,No,39.70657705187722,Poor,Low,,,Former,High,High,Asian,Service,Middle,Single,Low,Poor,Yes,Moderate,No,Urban,0,15,2,No,Yes,No,South,Malignant
+44,Female,No,Yes,32.70068156821036,Good,Moderate,High,,Current,Moderate,High,Asian,Manual Labor,Low,Married,High,Good,Yes,Low,No,Urban,3,16,0,No,No,Yes,West,Benign
+41,Female,No,No,20.915542800320665,Poor,Low,,One,Never,Low,Moderate,Hispanic,Unemployed,Middle,Widowed,Moderate,Poor,No,Moderate,Yes,Urban,0,13,1,Yes,No,No,North,Malignant
+33,Female,Yes,No,39.44544956722923,Good,High,Moderate,Multiple,Current,Low,Moderate,Asian,Manual Labor,Middle,Married,Moderate,Poor,Yes,Low,No,Urban,0,12,5,Yes,No,No,South,Malignant
+45,Female,No,No,35.01640876510521,Poor,Moderate,Moderate,,Never,Low,High,African American,Manual Labor,High,Single,Low,Poor,No,High,No,Urban,3,11,17,No,Yes,No,East,Benign
+52,Female,Yes,Yes,30.724512174141,Poor,High,High,One,Current,Moderate,High,African American,Unemployed,Low,Divorced,Low,Good,No,High,No,Urban,4,15,15,No,Yes,Yes,North,Malignant
+54,Female,Yes,No,22.75284001521119,Poor,High,High,Multiple,Current,Low,Low,Caucasian,Manual Labor,Middle,Divorced,High,Poor,No,Moderate,No,Rural,2,16,21,Yes,No,No,East,Benign
+52,Female,Yes,No,29.908519376623552,Good,Moderate,,Multiple,Current,Low,High,Hispanic,Unemployed,Low,Widowed,High,Poor,No,Moderate,Yes,Rural,0,16,21,Yes,No,No,North,Benign
+25,Female,Yes,No,19.271172341920067,Poor,High,High,,Never,Low,Low,African American,Office,Middle,Widowed,Moderate,Good,Yes,Low,Yes,Urban,2,16,23,Yes,Yes,No,North,Benign
+42,Female,No,No,29.776822891957018,Good,Low,High,Multiple,Never,Moderate,Low,Caucasian,Office,Middle,Married,High,Average,No,High,No,Urban,1,16,11,No,No,No,West,Benign
+21,Female,Yes,No,18.694895186164125,Poor,Low,High,,Former,Moderate,High,Asian,Unemployed,Low,Married,Low,Good,Yes,High,No,Rural,4,14,23,No,Yes,No,West,Malignant
+58,Female,No,No,33.454229351970284,Average,Moderate,Low,Multiple,Former,Moderate,Moderate,African American,Manual Labor,Low,Widowed,Low,Average,No,Moderate,Yes,Rural,0,16,23,Yes,No,Yes,West,Benign
+51,Female,Yes,No,29.59491220605633,Good,Low,,,Never,High,High,Caucasian,Office,Low,Married,Low,Average,No,High,No,Rural,3,10,18,Yes,No,Yes,South,Benign
+72,Female,No,Yes,32.44820661990843,Good,Moderate,High,One,Never,Low,Low,Caucasian,Unemployed,High,Married,Moderate,Poor,Yes,Moderate,No,Urban,0,11,0,No,Yes,Yes,South,Benign
+78,Female,Yes,No,37.68596643333161,Average,Moderate,Low,Multiple,Former,High,High,Caucasian,Manual Labor,Low,Widowed,Low,Good,Yes,Low,No,Rural,0,10,9,No,No,Yes,West,Malignant
+46,Female,Yes,Yes,21.072327604638883,Poor,Moderate,,Multiple,Never,Moderate,High,Caucasian,Manual Labor,Middle,Divorced,Moderate,Average,No,High,Yes,Urban,4,10,16,Yes,Yes,No,North,Malignant
+54,Female,No,No,26.269542273206923,Poor,High,Low,Multiple,Current,High,High,Caucasian,Manual Labor,Low,Widowed,High,Average,Yes,High,Yes,Rural,4,10,17,No,No,No,East,Malignant
+34,Female,No,Yes,25.4140698814883,Good,Low,Low,Multiple,Current,High,High,Asian,Manual Labor,Middle,Widowed,Low,Average,No,Moderate,No,Rural,3,14,3,Yes,No,No,North,Benign
+79,Female,No,Yes,23.193110193622207,Average,High,Moderate,,Never,Moderate,Low,Caucasian,Manual Labor,Low,Divorced,Low,Good,No,Moderate,Yes,Rural,2,15,8,No,No,No,East,Malignant
+45,Female,Yes,No,37.115909658531805,Poor,Moderate,Low,Multiple,Current,Moderate,Low,Asian,Service,Low,Married,Low,Poor,No,High,Yes,Urban,0,10,9,No,No,No,West,Malignant
+44,Female,No,No,23.788476538038545,Poor,High,High,Multiple,Current,Low,Moderate,Hispanic,Manual Labor,High,Married,Moderate,Good,No,Moderate,No,Urban,3,14,5,Yes,No,No,West,Malignant
+58,Female,No,Yes,22.74485335274978,Poor,Low,Low,Multiple,Never,Moderate,High,Caucasian,Unemployed,High,Widowed,Low,Good,Yes,Low,Yes,Urban,4,12,12,No,Yes,Yes,South,Malignant
+28,Female,No,No,24.95543430948851,Good,Low,,,Current,High,Low,African American,Office,Low,Single,Low,Good,No,Moderate,No,Urban,0,10,21,No,No,No,South,Benign
+57,Female,No,No,36.17348786555563,Poor,High,,One,Never,Low,High,Hispanic,Service,High,Married,Low,Good,No,High,No,Rural,2,16,2,No,No,Yes,North,Malignant
+40,Female,Yes,Yes,35.98389358680622,Good,High,Moderate,,Former,Low,Moderate,Caucasian,Manual Labor,Low,Widowed,Moderate,Poor,Yes,Moderate,Yes,Urban,3,14,2,No,Yes,Yes,North,Malignant
+32,Female,Yes,No,37.32734234862966,Average,High,,,Former,High,Moderate,Asian,Service,Low,Divorced,High,Good,Yes,Low,No,Rural,3,15,7,No,No,No,South,Benign
+74,Female,No,No,36.094572399955936,Average,High,,One,Former,Low,High,Asian,Manual Labor,Low,Single,High,Average,No,High,No,Urban,1,15,16,Yes,Yes,No,East,Benign
+63,Female,Yes,Yes,36.022154907389385,Good,High,Moderate,,Never,High,Low,Caucasian,Manual Labor,Low,Divorced,High,Good,No,Moderate,No,Urban,1,13,7,Yes,No,No,North,Benign
+42,Female,No,Yes,27.373834445588173,Poor,High,Low,Multiple,Current,Moderate,Moderate,African American,Office,Low,Single,Moderate,Good,No,Moderate,No,Urban,0,11,10,No,No,Yes,North,Benign
+60,Female,Yes,No,20.68641810822059,Poor,High,Moderate,Multiple,Former,Low,High,Hispanic,Service,Middle,Single,High,Poor,Yes,High,Yes,Rural,4,12,21,No,No,Yes,South,Benign
+30,Female,Yes,Yes,31.71888513606072,Poor,Low,High,One,Former,Low,Low,Asian,Unemployed,Middle,Widowed,Moderate,Poor,Yes,High,No,Urban,1,10,18,No,Yes,No,North,Benign
+39,Female,No,Yes,28.17770504826496,Poor,Moderate,Low,Multiple,Former,High,Low,African American,Office,Middle,Single,Moderate,Poor,Yes,High,No,Urban,4,15,17,No,No,No,West,Malignant
+63,Female,No,Yes,33.300278547176966,Average,High,High,,Never,High,Moderate,Caucasian,Unemployed,High,Married,High,Poor,No,Low,Yes,Urban,0,11,7,No,No,No,West,Benign
+74,Female,No,No,21.89729536784249,Average,High,High,One,Never,High,Moderate,Caucasian,Service,High,Married,High,Average,No,High,No,Rural,2,13,16,No,Yes,Yes,West,Benign
+32,Female,Yes,Yes,37.62586315668516,Poor,High,,One,Former,Moderate,High,Hispanic,Service,Middle,Married,Moderate,Average,No,Low,Yes,Rural,2,10,3,Yes,No,Yes,East,Malignant
+44,Female,Yes,No,19.928140428804447,Poor,High,Low,One,Former,High,Moderate,Hispanic,Service,Low,Widowed,Low,Average,No,Low,Yes,Urban,4,11,11,No,Yes,Yes,East,Benign
+31,Female,Yes,No,33.28892395585416,Average,Low,High,,Never,High,High,Caucasian,Office,Middle,Married,High,Average,No,Low,No,Urban,3,15,6,No,Yes,No,East,Malignant
+38,Female,Yes,Yes,31.929330263068493,Poor,High,Moderate,Multiple,Current,Moderate,Moderate,Caucasian,Office,Low,Married,Moderate,Poor,No,High,No,Urban,3,11,22,No,Yes,Yes,North,Benign
+43,Female,Yes,No,25.154181412943288,Average,Low,High,One,Current,High,High,Hispanic,Office,Middle,Single,Moderate,Poor,No,High,No,Rural,4,14,21,No,No,Yes,West,Benign
+68,Female,No,Yes,23.649084489851177,Good,Moderate,,,Current,Low,Low,Hispanic,Service,Low,Married,Low,Poor,Yes,High,No,Rural,1,13,13,Yes,Yes,No,South,Benign
+27,Female,Yes,Yes,29.15916579114464,Good,Low,Low,Multiple,Current,High,High,African American,Unemployed,Middle,Divorced,High,Poor,No,High,No,Urban,2,15,3,Yes,No,No,North,Malignant
+29,Female,No,Yes,37.9987154546441,Average,High,Moderate,One,Former,High,Moderate,Hispanic,Service,Low,Married,Low,Good,Yes,Moderate,No,Rural,1,15,15,No,Yes,No,South,Benign
+43,Female,No,No,32.060638631941,Good,High,,One,Current,Low,Moderate,African American,Service,High,Single,Low,Average,Yes,High,Yes,Urban,0,15,20,No,No,Yes,West,Benign
+27,Female,No,Yes,34.61594925092977,Good,High,,Multiple,Former,Low,Low,African American,Service,Low,Married,Low,Average,No,Moderate,Yes,Urban,3,14,3,No,No,No,West,Benign
+69,Female,No,No,18.42223009010725,Average,Moderate,,,Former,Low,Moderate,African American,Office,High,Married,Low,Poor,Yes,Low,No,Rural,1,16,9,Yes,Yes,Yes,North,Benign
+73,Female,Yes,Yes,24.090211539171136,Average,High,Low,Multiple,Former,High,High,Caucasian,Office,Middle,Single,Moderate,Poor,Yes,Moderate,No,Rural,2,15,15,No,Yes,Yes,East,Malignant
+43,Female,No,No,25.73569911927196,Good,Low,,Multiple,Never,High,Moderate,African American,Unemployed,Middle,Widowed,Low,Good,Yes,Moderate,No,Urban,0,12,12,Yes,Yes,Yes,West,Benign
+20,Female,Yes,Yes,32.797246600952775,Poor,Low,High,,Never,Low,Moderate,Hispanic,Manual Labor,Low,Single,Moderate,Good,Yes,High,Yes,Rural,1,16,23,Yes,Yes,Yes,East,Benign
+33,Female,Yes,Yes,39.33806501435995,Average,Moderate,,One,Current,Moderate,Low,Caucasian,Unemployed,High,Widowed,High,Average,No,Low,Yes,Rural,1,11,6,No,No,Yes,West,Benign
+70,Female,Yes,No,35.77261072270769,Average,High,,Multiple,Current,High,Low,African American,Manual Labor,Middle,Divorced,Moderate,Good,No,High,Yes,Rural,1,16,3,No,Yes,No,East,Malignant
+22,Female,Yes,No,26.77410117973181,Good,Moderate,High,,Current,Moderate,High,African American,Service,Middle,Single,Moderate,Average,No,Moderate,No,Urban,0,12,0,Yes,No,Yes,West,Malignant
+54,Female,Yes,No,18.882402211074613,Poor,High,Low,Multiple,Never,High,Low,African American,Office,High,Widowed,Low,Poor,No,High,Yes,Urban,2,11,7,No,No,Yes,East,Malignant
+59,Female,No,Yes,28.73278896637997,Poor,High,Low,One,Current,Moderate,Low,Caucasian,Unemployed,Middle,Married,Low,Average,No,Moderate,No,Rural,4,11,17,No,Yes,No,North,Malignant
+39,Female,Yes,No,26.78495014780478,Average,High,,,Current,High,High,Caucasian,Office,Low,Widowed,Low,Average,Yes,High,Yes,Urban,2,10,22,Yes,No,Yes,East,Malignant
+77,Female,No,No,24.760379228378305,Good,Moderate,Moderate,One,Current,Moderate,Low,Caucasian,Unemployed,Middle,Divorced,Moderate,Good,Yes,Low,Yes,Rural,0,11,9,Yes,Yes,No,West,Benign
+64,Female,Yes,Yes,36.23543404941741,Good,Moderate,,Multiple,Current,High,Low,Hispanic,Office,Middle,Widowed,High,Average,Yes,High,Yes,Rural,2,12,12,No,Yes,Yes,West,Benign
+45,Female,Yes,Yes,26.895012898294425,Poor,Moderate,High,Multiple,Former,Low,High,Hispanic,Service,Middle,Single,Low,Good,No,High,No,Urban,2,11,0,Yes,Yes,No,North,Malignant
+79,Female,No,Yes,18.5200488930194,Poor,Low,Low,Multiple,Former,High,Moderate,Asian,Manual Labor,High,Single,Moderate,Poor,Yes,Moderate,No,Urban,1,10,19,Yes,Yes,No,South,Benign
+22,Female,Yes,Yes,33.75531483291026,Average,Moderate,Low,,Never,Low,High,Hispanic,Unemployed,Low,Widowed,Low,Average,Yes,High,Yes,Urban,1,11,1,No,Yes,Yes,South,Malignant
+54,Female,Yes,No,25.646573533257605,Average,Low,Moderate,Multiple,Never,High,High,Hispanic,Service,High,Widowed,High,Poor,Yes,Moderate,Yes,Urban,2,15,11,No,No,No,West,Benign
+67,Female,No,Yes,21.81753932970319,Poor,High,,One,Current,Moderate,High,Hispanic,Office,High,Single,Moderate,Poor,No,High,Yes,Rural,4,16,0,Yes,No,No,West,Malignant
+71,Female,Yes,Yes,18.564125447741585,Average,Moderate,High,,Never,Moderate,Low,Hispanic,Service,Low,Married,Low,Average,No,High,No,Urban,4,13,0,Yes,Yes,Yes,North,Benign
+60,Female,No,No,34.63559323569541,Poor,Low,Low,,Never,Moderate,Moderate,Asian,Service,Middle,Married,Moderate,Poor,Yes,Moderate,No,Urban,3,12,3,No,Yes,Yes,North,Benign
+56,Female,Yes,Yes,33.79870767698288,Poor,High,Moderate,,Current,Moderate,High,Asian,Office,Low,Married,Low,Poor,Yes,Moderate,No,Rural,0,10,7,No,No,No,East,Benign
+54,Female,Yes,Yes,29.344947409322952,Poor,Moderate,High,,Former,Moderate,Low,Caucasian,Office,Middle,Single,High,Poor,No,High,No,Urban,2,11,9,No,Yes,Yes,West,Benign
+72,Female,No,No,31.235460043219284,Average,High,Low,One,Never,Moderate,Low,African American,Manual Labor,Low,Single,High,Average,Yes,Moderate,Yes,Urban,3,14,10,Yes,Yes,Yes,South,Benign
+46,Female,Yes,No,19.76252662046285,Poor,Low,,,Never,Low,Low,Caucasian,Unemployed,Middle,Divorced,Low,Poor,No,Low,No,Rural,4,13,0,Yes,No,No,North,Benign
+51,Female,No,No,26.891087076322727,Good,Moderate,High,Multiple,Current,High,Low,African American,Manual Labor,High,Married,Low,Good,No,High,No,Urban,0,13,2,No,Yes,No,West,Malignant
+58,Female,Yes,No,38.60532523048916,Average,Low,,Multiple,Former,High,Moderate,Caucasian,Unemployed,Middle,Married,Moderate,Poor,Yes,Moderate,Yes,Rural,3,10,22,Yes,Yes,No,West,Malignant
+71,Female,Yes,Yes,29.46107549998493,Average,Moderate,,Multiple,Current,High,Low,Hispanic,Service,High,Divorced,Low,Poor,Yes,Low,No,Rural,1,10,0,No,No,Yes,West,Benign
+51,Female,Yes,Yes,38.55759258972131,Poor,Low,Moderate,Multiple,Never,Low,High,African American,Service,Low,Married,Moderate,Poor,No,Moderate,Yes,Rural,1,14,20,Yes,Yes,Yes,South,Benign
+79,Female,No,Yes,39.6409363557951,Average,High,Moderate,Multiple,Former,Low,High,Caucasian,Office,Low,Widowed,Moderate,Poor,No,Moderate,No,Rural,0,16,12,Yes,Yes,Yes,North,Benign
+36,Female,Yes,Yes,24.045732782058995,Poor,Low,Low,Multiple,Former,Moderate,Moderate,Asian,Service,Low,Single,Moderate,Poor,Yes,High,Yes,Urban,3,12,18,Yes,No,Yes,East,Benign
+79,Female,No,No,39.91934615324833,Average,Low,Moderate,,Never,High,High,Caucasian,Office,Middle,Divorced,High,Poor,Yes,Low,No,Urban,3,13,11,No,Yes,Yes,North,Benign
+44,Female,No,No,20.879220535803697,Poor,High,Moderate,,Never,High,Low,Caucasian,Office,Middle,Married,Low,Poor,Yes,Low,No,Urban,0,16,23,No,No,No,West,Benign
+45,Female,No,Yes,34.12848649313618,Poor,Moderate,Low,One,Former,Low,Low,Asian,Unemployed,Middle,Widowed,Low,Average,No,High,Yes,Urban,0,13,13,No,No,Yes,East,Benign
+72,Female,No,No,39.88705897773488,Average,High,,Multiple,Current,Moderate,Moderate,Asian,Service,Middle,Widowed,Low,Good,No,Moderate,Yes,Rural,2,16,1,No,Yes,Yes,North,Benign
+40,Female,Yes,No,31.599426154998618,Poor,Moderate,Moderate,One,Never,High,Moderate,Hispanic,Unemployed,Low,Married,Moderate,Average,No,Low,No,Urban,1,14,17,Yes,Yes,No,South,Benign
+73,Female,Yes,Yes,39.83463704748425,Average,High,,,Current,High,Moderate,Hispanic,Office,Low,Divorced,High,Good,Yes,Moderate,Yes,Urban,3,16,13,Yes,Yes,No,East,Benign
+31,Female,No,No,39.06775625911837,Average,Low,,,Never,High,Low,African American,Unemployed,Low,Single,High,Poor,Yes,Low,Yes,Urban,3,12,2,No,Yes,Yes,South,Benign
+67,Female,No,Yes,32.72871301436018,Average,High,High,Multiple,Never,Low,Low,Asian,Office,Middle,Single,Moderate,Poor,No,High,Yes,Rural,0,16,4,No,No,No,East,Benign
+54,Female,Yes,No,18.659418977198914,Poor,Low,High,,Never,High,Moderate,Hispanic,Unemployed,High,Single,Low,Poor,Yes,High,No,Urban,0,13,11,No,Yes,No,South,Benign
+74,Female,No,No,18.108679580557013,Average,Low,High,Multiple,Former,Moderate,Low,African American,Manual Labor,Middle,Single,Low,Poor,No,High,No,Urban,0,12,23,Yes,No,No,North,Benign
+79,Female,Yes,No,18.66851531333041,Average,Low,High,,Former,Low,Low,Caucasian,Service,High,Single,Low,Poor,Yes,Moderate,No,Urban,2,14,4,No,No,No,West,Benign
+75,Female,No,No,37.09724718236391,Poor,Low,High,Multiple,Current,Moderate,Moderate,African American,Unemployed,Middle,Divorced,Low,Good,Yes,Moderate,No,Urban,0,10,18,Yes,Yes,No,West,Benign
+51,Female,Yes,Yes,32.32712549491283,Poor,Low,High,One,Former,Moderate,High,Hispanic,Office,Low,Widowed,High,Good,No,Moderate,No,Urban,1,11,7,No,No,No,North,Benign
+79,Female,Yes,No,35.90734592913242,Poor,Moderate,,,Current,Low,Moderate,African American,Service,Middle,Married,High,Poor,No,Low,Yes,Urban,3,12,8,No,No,No,North,Benign
+42,Female,No,Yes,25.18214878136782,Poor,High,Moderate,,Former,Moderate,Moderate,African American,Unemployed,High,Divorced,Moderate,Average,Yes,Low,Yes,Urban,0,13,16,No,Yes,No,East,Benign
+21,Female,No,No,27.838455891106385,Average,Moderate,Moderate,,Current,High,Moderate,Asian,Service,Low,Married,High,Good,Yes,High,No,Urban,2,12,4,Yes,Yes,Yes,West,Malignant
+40,Female,No,No,31.0449187315684,Average,High,,One,Current,High,High,African American,Manual Labor,High,Married,Moderate,Average,No,High,Yes,Rural,1,16,4,No,No,Yes,East,Benign
+21,Female,No,No,37.81544100824769,Average,Moderate,,,Current,High,Moderate,African American,Service,Middle,Married,High,Poor,No,High,Yes,Urban,3,11,17,No,Yes,Yes,South,Benign
+61,Female,No,Yes,30.0470322753822,Good,Moderate,Moderate,Multiple,Current,High,Moderate,Asian,Unemployed,Middle,Single,Moderate,Poor,No,Low,No,Rural,2,14,15,No,No,Yes,South,Benign
+51,Female,Yes,No,39.807631861448144,Average,High,High,,Current,High,High,Hispanic,Manual Labor,Middle,Married,Low,Average,No,High,No,Rural,3,15,17,Yes,No,Yes,North,Benign
+45,Female,Yes,Yes,37.09912959630512,Poor,High,,,Never,High,Low,Hispanic,Office,Middle,Divorced,Moderate,Poor,No,Moderate,Yes,Rural,0,16,4,Yes,Yes,No,East,Malignant
+66,Female,Yes,Yes,34.72637610868697,Average,Low,Low,One,Former,Low,High,Asian,Manual Labor,Low,Single,High,Poor,No,Low,No,Rural,1,12,11,No,No,Yes,West,Benign
+35,Female,Yes,Yes,36.98153570595103,Poor,High,,,Current,High,Low,Caucasian,Office,Low,Single,Moderate,Good,No,Moderate,No,Urban,3,16,17,Yes,No,Yes,West,Benign
+61,Female,Yes,No,23.30643206718992,Good,Low,,Multiple,Former,Moderate,Low,Caucasian,Service,Low,Divorced,Moderate,Poor,No,Moderate,Yes,Rural,2,10,17,No,Yes,No,East,Malignant
+78,Female,No,No,32.687054482398864,Average,High,,One,Current,High,Moderate,Asian,Office,Middle,Married,High,Good,Yes,High,Yes,Rural,0,12,6,No,No,Yes,North,Malignant
+52,Female,No,Yes,22.768275601997065,Poor,Moderate,Moderate,,Former,Moderate,Low,Hispanic,Manual Labor,Low,Divorced,High,Average,No,High,No,Rural,4,12,8,No,Yes,No,East,Benign
+53,Female,No,Yes,19.49979080648086,Average,Low,,,Former,Low,Moderate,African American,Office,Middle,Married,High,Good,Yes,Moderate,No,Urban,3,13,3,Yes,No,No,West,Malignant
+31,Female,No,No,18.914602899108623,Average,Low,Moderate,Multiple,Never,Low,Moderate,Caucasian,Service,High,Married,Moderate,Poor,Yes,Moderate,Yes,Urban,1,15,16,Yes,Yes,No,North,Benign
+39,Female,Yes,No,37.31543504979153,Poor,High,,,Former,Moderate,High,African American,Manual Labor,Middle,Married,High,Average,Yes,Moderate,No,Urban,4,11,16,No,Yes,No,South,Benign
+53,Female,No,Yes,21.26355042116596,Good,Moderate,Moderate,,Former,Low,High,African American,Manual Labor,Middle,Single,Low,Good,Yes,Low,Yes,Urban,3,14,8,No,No,No,South,Benign
+50,Female,No,Yes,29.207286819295373,Good,Moderate,High,One,Current,High,Moderate,African American,Unemployed,Low,Widowed,Low,Good,Yes,Moderate,Yes,Rural,4,11,8,Yes,No,Yes,West,Malignant
+57,Female,Yes,Yes,36.09751500730093,Good,Low,Low,One,Never,Low,Low,Caucasian,Office,Middle,Widowed,High,Average,No,High,Yes,Urban,3,11,7,No,Yes,Yes,South,Benign
+28,Female,No,Yes,33.549098771479805,Poor,Moderate,Low,Multiple,Never,Moderate,Low,Hispanic,Service,High,Widowed,Low,Good,No,High,Yes,Urban,2,14,13,No,No,No,West,Benign
+55,Female,No,No,20.809696639975165,Good,Low,Low,Multiple,Never,Moderate,High,Asian,Service,High,Widowed,Moderate,Good,Yes,Low,Yes,Urban,4,15,9,Yes,No,No,West,Malignant
+67,Female,No,Yes,21.981492959608776,Average,High,Moderate,One,Current,Low,High,Hispanic,Unemployed,High,Married,Moderate,Good,Yes,Low,Yes,Rural,2,10,19,No,No,Yes,West,Benign
+26,Female,No,No,38.54525038561391,Poor,Moderate,Low,One,Current,Low,Moderate,African American,Manual Labor,Middle,Widowed,High,Poor,Yes,Moderate,Yes,Rural,3,12,22,No,Yes,No,West,Malignant
+43,Female,No,Yes,32.24444371140127,Good,Low,,One,Former,High,Moderate,Caucasian,Service,Middle,Divorced,Moderate,Poor,Yes,High,Yes,Rural,4,13,14,Yes,Yes,No,West,Benign
+43,Female,No,Yes,20.670468667293434,Good,High,,Multiple,Never,Low,Low,African American,Manual Labor,Middle,Married,High,Poor,Yes,Low,No,Urban,2,16,15,Yes,Yes,Yes,North,Malignant
+34,Female,No,No,36.796472054130746,Poor,Moderate,,One,Current,Low,High,African American,Manual Labor,High,Divorced,High,Average,No,Low,Yes,Urban,2,15,15,Yes,Yes,Yes,East,Benign
+49,Female,Yes,Yes,38.30065819129467,Average,Moderate,Moderate,One,Former,Low,Low,Caucasian,Office,Low,Widowed,Moderate,Good,Yes,Moderate,Yes,Rural,0,14,6,No,Yes,No,West,Benign
+26,Female,Yes,No,31.57718970528866,Good,High,High,Multiple,Never,Low,Low,Asian,Office,Middle,Divorced,Low,Average,Yes,High,Yes,Rural,3,15,1,Yes,Yes,No,North,Malignant
+71,Female,No,No,26.665016924391487,Average,Low,High,,Former,Moderate,Moderate,Caucasian,Unemployed,High,Married,Moderate,Poor,No,High,Yes,Rural,0,12,13,No,No,Yes,West,Malignant
+21,Female,No,Yes,27.582832925884524,Poor,Moderate,Low,Multiple,Former,High,Moderate,Hispanic,Office,High,Single,Moderate,Good,Yes,Moderate,Yes,Rural,4,14,7,No,No,No,West,Malignant
+60,Female,Yes,No,20.23125822588276,Poor,Low,Moderate,Multiple,Never,High,High,Caucasian,Service,Low,Widowed,Low,Good,Yes,High,No,Urban,1,13,13,No,No,No,East,Malignant
+39,Female,No,Yes,31.078479374095807,Good,High,Low,Multiple,Former,Low,High,Asian,Office,High,Single,Moderate,Poor,Yes,Low,No,Rural,4,10,11,No,Yes,No,North,Benign
+28,Female,Yes,Yes,20.10572022144356,Poor,Low,,One,Never,High,Moderate,Caucasian,Manual Labor,Middle,Single,Moderate,Poor,Yes,High,No,Urban,3,13,1,Yes,No,No,South,Benign
+74,Female,No,No,20.126881892227832,Good,Moderate,High,,Current,Moderate,Moderate,African American,Unemployed,High,Single,Moderate,Good,No,Moderate,No,Rural,4,10,5,Yes,No,Yes,South,Benign
+52,Female,No,No,36.731349070392106,Average,High,High,,Current,Moderate,Low,Hispanic,Service,Low,Married,Low,Good,Yes,Low,Yes,Urban,4,13,4,Yes,No,No,South,Benign
+26,Female,Yes,Yes,35.38066959875535,Average,Low,,,Former,Low,Moderate,Hispanic,Service,High,Widowed,Low,Good,Yes,High,Yes,Rural,3,12,0,No,No,Yes,North,Malignant
+75,Female,Yes,Yes,23.21115229743861,Poor,High,Moderate,,Former,Low,Moderate,Caucasian,Service,Middle,Single,Low,Poor,No,Moderate,No,Rural,3,10,20,No,Yes,Yes,West,Benign
+20,Female,No,No,21.68762275834299,Poor,High,Low,One,Never,Low,Moderate,Hispanic,Unemployed,Low,Single,Moderate,Average,Yes,Moderate,No,Rural,0,16,4,No,Yes,No,East,Benign
+35,Female,No,Yes,30.02734307970954,Average,High,Low,,Current,High,High,African American,Unemployed,Low,Divorced,Low,Poor,No,Moderate,No,Urban,0,14,9,Yes,Yes,No,South,Benign
+46,Female,No,Yes,29.4197992729968,Average,High,Moderate,,Former,Low,High,Asian,Unemployed,High,Widowed,Low,Poor,Yes,Low,Yes,Urban,0,16,15,No,Yes,No,East,Malignant
+49,Female,No,Yes,20.973658361406105,Good,Low,,Multiple,Current,Low,Low,African American,Office,Middle,Divorced,Moderate,Average,No,Moderate,No,Urban,4,14,19,Yes,Yes,No,South,Benign
+58,Female,No,No,31.62878761221152,Poor,High,Moderate,Multiple,Current,High,High,Asian,Manual Labor,Low,Widowed,High,Average,No,Moderate,No,Rural,1,16,8,Yes,Yes,No,East,Benign
+30,Female,Yes,Yes,28.441879266495903,Poor,Moderate,Moderate,,Never,Moderate,High,Asian,Unemployed,Low,Widowed,High,Average,No,Low,Yes,Rural,0,16,6,Yes,Yes,Yes,North,Malignant
+47,Female,Yes,Yes,30.089649789690373,Poor,Moderate,High,,Former,Moderate,Low,Asian,Office,Low,Widowed,Moderate,Poor,No,High,No,Urban,1,10,3,Yes,No,Yes,South,Benign
+24,Female,Yes,Yes,32.686097784412354,Good,Low,Low,One,Current,Low,Low,Hispanic,Service,Middle,Divorced,Low,Average,No,Moderate,No,Rural,0,11,23,Yes,Yes,Yes,West,Benign
+68,Female,No,Yes,20.223007842234228,Average,High,Low,Multiple,Current,High,High,Asian,Office,Low,Single,Moderate,Good,Yes,Low,No,Urban,4,11,6,Yes,Yes,Yes,West,Malignant
+48,Female,No,No,38.61307210668338,Good,Low,,,Never,High,High,African American,Office,High,Widowed,High,Good,Yes,Moderate,Yes,Urban,4,11,22,Yes,No,Yes,North,Malignant
+53,Female,Yes,No,31.72490514288461,Good,Low,Moderate,,Current,Low,Moderate,Caucasian,Service,Middle,Divorced,High,Good,Yes,Low,No,Rural,1,11,11,Yes,Yes,No,North,Benign
+38,Female,No,Yes,32.6280579387188,Average,Moderate,Moderate,,Former,Moderate,High,African American,Manual Labor,High,Single,Low,Average,No,High,No,Rural,0,13,14,Yes,No,No,South,Benign
+30,Female,No,Yes,21.696312570387,Good,Low,,One,Former,High,High,Hispanic,Service,High,Divorced,Low,Average,No,High,Yes,Urban,1,14,23,Yes,No,No,West,Benign
+22,Female,No,No,24.702941060156896,Average,High,,Multiple,Former,High,High,African American,Manual Labor,High,Divorced,Low,Good,Yes,High,No,Urban,4,14,23,No,Yes,Yes,West,Benign
+71,Female,Yes,Yes,32.56046217668633,Poor,Low,Moderate,One,Former,High,High,Hispanic,Service,Middle,Divorced,High,Average,Yes,High,No,Rural,4,13,22,No,No,No,West,Benign
+79,Female,Yes,No,39.33606299172799,Average,High,Low,Multiple,Former,High,Low,African American,Unemployed,Low,Single,High,Average,Yes,Moderate,No,Urban,0,12,11,No,No,Yes,South,Benign
+70,Female,Yes,Yes,33.16958852269435,Average,Low,,,Former,Low,Low,Hispanic,Service,Low,Married,High,Average,No,Low,No,Rural,3,10,12,Yes,No,Yes,West,Malignant
+78,Female,No,Yes,39.73128144472752,Average,Low,Moderate,Multiple,Current,High,High,Asian,Service,Middle,Single,Low,Poor,No,Moderate,Yes,Urban,4,13,3,No,No,Yes,East,Malignant
+47,Female,Yes,No,19.349691796434698,Good,Moderate,Low,Multiple,Never,Moderate,High,African American,Manual Labor,Middle,Married,Low,Average,No,Low,Yes,Rural,0,10,2,Yes,No,Yes,North,Malignant
+74,Female,No,No,34.22185570253159,Average,Low,High,,Former,Moderate,High,African American,Office,Low,Married,Low,Average,Yes,High,No,Urban,3,13,14,Yes,Yes,Yes,East,Malignant
+62,Female,No,Yes,27.996301360319137,Poor,Moderate,High,Multiple,Former,High,Low,African American,Manual Labor,High,Widowed,Moderate,Poor,Yes,Low,No,Urban,2,10,6,No,No,No,South,Malignant
+52,Female,No,No,27.5149533232629,Poor,High,High,Multiple,Current,Low,High,Hispanic,Manual Labor,High,Single,High,Good,Yes,High,Yes,Rural,1,15,5,Yes,No,No,North,Benign
+28,Female,No,Yes,35.88568625175405,Average,High,,,Former,Moderate,High,Caucasian,Manual Labor,High,Married,High,Poor,Yes,Moderate,Yes,Rural,0,12,13,No,No,No,North,Benign
+22,Female,No,No,27.420391528363524,Average,Moderate,,Multiple,Current,Low,Low,Caucasian,Unemployed,Middle,Divorced,Low,Good,No,High,No,Rural,4,11,9,Yes,No,Yes,South,Benign
+22,Female,Yes,Yes,20.065815747367203,Good,Moderate,,,Never,Moderate,Moderate,Hispanic,Service,High,Widowed,High,Good,No,Moderate,Yes,Rural,2,15,22,Yes,Yes,No,North,Benign
+78,Female,Yes,No,23.934491453373774,Good,Low,High,One,Former,Moderate,Low,Caucasian,Manual Labor,Middle,Single,Low,Average,Yes,Moderate,Yes,Urban,3,15,15,No,Yes,No,West,Benign
+26,Female,No,Yes,25.19472955439125,Poor,Moderate,Low,,Never,Low,Moderate,Caucasian,Manual Labor,Middle,Married,High,Good,Yes,Moderate,No,Urban,3,14,2,Yes,Yes,No,East,Malignant
+68,Female,Yes,No,20.681494053412848,Poor,Low,High,Multiple,Never,High,Low,Asian,Manual Labor,Middle,Divorced,High,Average,No,Low,No,Urban,1,14,18,No,Yes,No,East,Benign
+46,Female,Yes,Yes,34.82743175392682,Good,Moderate,Low,,Current,High,Low,Hispanic,Manual Labor,High,Widowed,Moderate,Poor,Yes,Low,Yes,Rural,3,15,22,Yes,No,No,East,Benign
+64,Female,Yes,No,19.61692844126028,Average,Moderate,,Multiple,Current,Moderate,Low,African American,Unemployed,Low,Widowed,High,Poor,No,Moderate,Yes,Urban,1,16,17,Yes,Yes,No,North,Malignant
+20,Female,Yes,No,27.479525520559733,Average,Moderate,Moderate,One,Current,Low,Moderate,African American,Service,Low,Widowed,Moderate,Poor,Yes,Moderate,No,Urban,4,14,16,Yes,Yes,No,South,Benign
+51,Female,Yes,No,22.420541150499243,Average,Moderate,Moderate,One,Former,Moderate,Moderate,Asian,Office,Middle,Widowed,High,Poor,Yes,Moderate,Yes,Rural,2,15,9,No,Yes,Yes,West,Malignant
+76,Female,Yes,No,28.54200130785408,Average,Moderate,Moderate,,Current,Moderate,High,Caucasian,Office,Middle,Married,Moderate,Good,No,Low,Yes,Urban,3,15,3,Yes,No,No,South,Malignant
+70,Female,No,No,39.46342441891812,Poor,Low,Low,Multiple,Never,Low,High,African American,Service,Low,Married,High,Poor,No,Moderate,Yes,Rural,0,14,10,Yes,No,Yes,South,Benign
+36,Female,Yes,No,19.780224227127547,Average,Moderate,Low,One,Current,Moderate,High,Hispanic,Service,Low,Divorced,Low,Good,No,Moderate,Yes,Urban,4,13,4,No,Yes,Yes,East,Malignant
+27,Female,No,Yes,34.20084433144409,Average,High,Low,Multiple,Former,Moderate,High,Asian,Manual Labor,Low,Divorced,Moderate,Average,Yes,Moderate,No,Urban,0,12,2,No,No,No,South,Benign
+78,Female,Yes,No,35.17156133536496,Good,Moderate,Low,,Never,High,Moderate,Hispanic,Unemployed,High,Divorced,Moderate,Average,Yes,Moderate,No,Rural,0,13,20,No,No,No,West,Benign
+70,Female,No,No,21.84644979972908,Good,High,,Multiple,Former,Moderate,High,African American,Unemployed,Low,Married,High,Poor,No,High,Yes,Urban,0,10,2,Yes,No,No,West,Benign
+66,Female,No,No,23.678935519424805,Poor,Moderate,,Multiple,Current,Moderate,Low,Hispanic,Manual Labor,Middle,Single,High,Poor,No,Low,Yes,Rural,0,15,2,Yes,Yes,Yes,South,Benign
+39,Female,No,No,33.592383350345486,Poor,Moderate,High,Multiple,Never,Low,Moderate,Asian,Manual Labor,Middle,Widowed,High,Good,No,Low,No,Urban,2,10,8,No,No,No,West,Malignant
+47,Female,No,No,22.986440848993738,Good,High,Moderate,,Former,Low,High,African American,Unemployed,Middle,Widowed,Moderate,Good,No,High,No,Rural,1,14,6,No,No,Yes,West,Malignant
+54,Female,No,Yes,37.10196817129169,Average,High,High,Multiple,Former,Moderate,High,Caucasian,Service,High,Married,Moderate,Average,No,Low,Yes,Urban,3,13,21,Yes,No,Yes,West,Benign
+40,Female,No,No,31.72570839841605,Good,Moderate,,Multiple,Current,Low,High,Asian,Unemployed,Middle,Divorced,Moderate,Average,No,High,No,Urban,1,11,7,Yes,Yes,No,West,Benign
+70,Female,Yes,Yes,19.79585960467297,Good,Moderate,,One,Former,Moderate,Low,Caucasian,Office,Middle,Married,Moderate,Good,Yes,Moderate,Yes,Urban,4,10,15,No,Yes,No,South,Benign
+50,Female,Yes,Yes,27.1108545556364,Poor,Low,Low,One,Current,High,Moderate,Caucasian,Office,High,Divorced,Moderate,Good,No,Moderate,Yes,Urban,1,11,12,No,Yes,No,West,Benign
+72,Female,No,No,18.674355048527733,Average,Low,High,Multiple,Current,High,High,Caucasian,Office,Low,Single,High,Poor,No,High,Yes,Rural,4,10,17,No,No,No,East,Benign
+30,Female,Yes,No,25.7752703446598,Average,Low,Moderate,Multiple,Former,Moderate,Low,Hispanic,Service,Middle,Divorced,High,Average,No,Low,No,Rural,2,16,5,Yes,No,No,South,Benign
+23,Female,No,No,38.0719936035672,Poor,High,Moderate,,Never,Moderate,Moderate,Hispanic,Manual Labor,High,Single,High,Average,Yes,High,Yes,Urban,4,16,14,Yes,No,Yes,East,Malignant
+73,Female,No,Yes,38.394759985518746,Average,Moderate,,,Never,Low,Low,Caucasian,Office,Low,Widowed,High,Good,No,Moderate,No,Rural,2,15,18,No,Yes,Yes,South,Malignant
+49,Female,No,No,32.472596701266795,Poor,Low,Moderate,One,Former,High,High,African American,Unemployed,High,Divorced,High,Average,No,Moderate,No,Rural,1,13,17,No,No,Yes,West,Benign
+35,Female,No,Yes,38.22662341071718,Poor,Moderate,,,Never,Low,High,Caucasian,Unemployed,Middle,Married,Low,Good,No,High,No,Rural,1,13,12,No,No,Yes,East,Malignant
+20,Female,No,No,24.7744587150062,Good,High,,Multiple,Never,Low,Moderate,African American,Office,High,Divorced,High,Good,Yes,High,No,Urban,2,12,3,Yes,No,No,West,Benign
+30,Female,No,No,19.93306298118633,Good,High,,One,Never,Low,Moderate,African American,Office,Low,Divorced,High,Poor,No,Moderate,No,Urban,1,16,12,No,No,Yes,West,Benign
+68,Female,Yes,Yes,35.926152502423264,Poor,Low,Moderate,One,Current,Low,Low,Asian,Unemployed,High,Married,Moderate,Poor,Yes,Low,No,Rural,3,12,13,No,Yes,No,East,Malignant
+40,Female,No,Yes,19.1433682403324,Good,Moderate,,One,Current,Low,Moderate,Caucasian,Office,Middle,Widowed,Moderate,Poor,Yes,Moderate,No,Rural,0,10,5,No,Yes,No,North,Benign
+58,Female,No,No,36.438536372258426,Good,Moderate,,Multiple,Current,Moderate,Low,Hispanic,Unemployed,Low,Widowed,Low,Average,Yes,Moderate,No,Rural,2,13,5,No,Yes,No,North,Malignant
+47,Female,Yes,Yes,27.948378622235577,Poor,Moderate,High,,Current,High,High,Caucasian,Office,High,Married,Moderate,Good,Yes,Moderate,Yes,Rural,0,15,16,Yes,No,No,South,Benign
+52,Female,No,Yes,26.865563932833552,Average,Low,,Multiple,Never,High,High,Asian,Office,Middle,Single,Low,Good,Yes,High,No,Urban,2,16,1,No,Yes,No,West,Malignant
+68,Female,No,No,34.074311225263415,Average,High,,One,Current,High,Low,Asian,Manual Labor,Middle,Married,Moderate,Average,Yes,High,Yes,Rural,2,10,18,Yes,Yes,Yes,West,Benign
+20,Female,No,No,26.355287163943053,Good,Low,High,Multiple,Never,High,High,Caucasian,Manual Labor,Middle,Single,Low,Average,No,Low,No,Rural,4,15,18,No,Yes,No,South,Benign
+50,Female,No,No,39.37069206891607,Average,Low,High,,Former,High,Low,Caucasian,Manual Labor,High,Single,Moderate,Poor,No,Moderate,Yes,Urban,1,10,15,No,No,No,North,Benign
+70,Female,No,No,25.41170741896435,Average,High,High,One,Never,Moderate,Moderate,Hispanic,Office,Middle,Single,Low,Good,No,Low,No,Rural,1,10,16,No,Yes,Yes,North,Benign
+34,Female,Yes,Yes,37.75667207689971,Good,Low,Low,Multiple,Former,Low,Moderate,African American,Unemployed,Middle,Single,Moderate,Average,Yes,Moderate,No,Rural,0,16,21,Yes,Yes,No,North,Malignant
+58,Female,No,Yes,28.74130501447912,Average,High,High,Multiple,Current,Low,Moderate,Caucasian,Office,High,Married,Moderate,Poor,Yes,High,Yes,Urban,1,11,2,No,No,Yes,East,Benign
+65,Female,Yes,Yes,24.72153483447652,Poor,Low,Low,One,Former,Low,Low,African American,Office,Middle,Widowed,Low,Good,Yes,High,Yes,Urban,3,16,15,Yes,Yes,Yes,South,Benign
+32,Female,Yes,Yes,38.48087130115351,Average,High,Moderate,Multiple,Former,Moderate,Moderate,Asian,Office,Low,Single,High,Average,Yes,High,No,Rural,4,14,14,No,Yes,No,North,Malignant
+35,Female,Yes,No,32.15870929432355,Good,Moderate,Moderate,,Former,Moderate,Moderate,Caucasian,Office,High,Divorced,Low,Poor,Yes,Low,Yes,Rural,4,15,15,Yes,No,No,East,Malignant
+56,Male,No,No,37.09420247944048,Poor,Low,High,One,Current,High,Low,Hispanic,Office,Low,Widowed,Moderate,Good,Yes,Low,No,Rural,4,10,21,Yes,No,No,East,Benign
+66,Female,Yes,Yes,39.24808754537084,Good,Low,Moderate,,Current,Moderate,Moderate,Caucasian,Manual Labor,Low,Widowed,Moderate,Poor,No,Moderate,No,Rural,2,14,21,No,Yes,Yes,North,Malignant
+72,Female,No,Yes,18.12669053095868,Good,High,,,Former,High,Moderate,Asian,Service,High,Divorced,Low,Good,No,Moderate,No,Rural,3,14,10,Yes,Yes,No,West,Benign
+74,Female,No,No,37.80050871475625,Poor,High,High,,Former,High,High,African American,Manual Labor,Middle,Widowed,Low,Average,Yes,Low,Yes,Urban,0,13,15,Yes,No,No,South,Benign
+21,Female,No,No,31.427343232840204,Poor,Low,High,One,Former,Low,Moderate,Hispanic,Office,Middle,Widowed,High,Good,No,High,Yes,Urban,2,16,5,Yes,No,Yes,North,Benign
+73,Female,No,No,29.05645368219573,Average,High,High,,Never,High,Low,Hispanic,Office,Low,Married,Low,Good,Yes,High,Yes,Rural,1,13,11,Yes,Yes,No,South,Benign
+62,Female,No,Yes,21.13490194383329,Average,Moderate,Moderate,One,Former,High,Low,Asian,Service,Low,Single,Moderate,Good,Yes,Moderate,No,Urban,2,16,22,Yes,Yes,Yes,North,Benign
+68,Female,No,Yes,23.997728016137746,Poor,High,Low,,Former,Moderate,High,Asian,Manual Labor,High,Married,Low,Average,Yes,Moderate,Yes,Rural,1,13,12,No,Yes,No,West,Benign
+54,Female,Yes,No,39.92733078476549,Good,Low,Moderate,,Never,Low,Low,Hispanic,Office,Middle,Married,Low,Average,Yes,Moderate,Yes,Rural,1,10,9,No,No,No,East,Benign
+42,Female,Yes,No,37.15649782799525,Poor,Moderate,Moderate,One,Never,High,Moderate,Caucasian,Office,High,Married,Moderate,Good,Yes,High,No,Rural,4,15,4,Yes,No,No,West,Malignant
+32,Female,No,Yes,25.50745220777544,Good,Moderate,Moderate,One,Never,Low,High,Asian,Service,Low,Widowed,Low,Poor,Yes,High,Yes,Urban,0,14,19,No,Yes,No,East,Benign
+68,Female,Yes,No,31.63093500775225,Good,High,,Multiple,Former,High,Low,Asian,Manual Labor,Middle,Widowed,High,Average,No,Low,Yes,Rural,3,15,16,Yes,Yes,No,South,Malignant
+49,Female,No,Yes,23.22597087923521,Poor,Moderate,High,,Former,Low,Low,Asian,Manual Labor,Low,Married,High,Poor,Yes,Low,No,Rural,3,10,18,No,Yes,No,East,Benign
+46,Female,No,Yes,38.78151282842851,Good,Low,Moderate,,Never,Moderate,Low,Hispanic,Unemployed,High,Widowed,Moderate,Good,Yes,Moderate,No,Rural,2,13,18,Yes,No,No,West,Malignant
+27,Female,Yes,No,28.830112841856767,Good,High,Moderate,One,Never,Low,High,Asian,Office,Middle,Single,Low,Poor,Yes,Low,Yes,Rural,0,13,11,No,No,No,North,Benign
+25,Female,No,No,27.93888893221904,Average,Low,,,Former,Low,Moderate,Asian,Service,High,Divorced,Moderate,Poor,No,Moderate,No,Urban,4,10,4,No,No,Yes,North,Benign
+77,Female,Yes,Yes,22.999931799789334,Good,High,Low,,Current,High,Moderate,Hispanic,Office,Middle,Married,High,Average,No,High,No,Rural,4,12,3,Yes,Yes,Yes,North,Malignant
+69,Female,No,Yes,32.30716509963261,Average,Moderate,Low,Multiple,Former,High,High,Hispanic,Service,High,Single,High,Poor,Yes,Low,No,Urban,3,14,8,No,No,No,East,Malignant
+71,Female,Yes,No,21.50998296249014,Average,High,Moderate,One,Former,Low,High,African American,Manual Labor,Low,Married,Low,Average,Yes,Moderate,Yes,Rural,1,13,21,No,Yes,Yes,South,Benign
+41,Female,Yes,No,33.70991250691341,Good,High,Moderate,,Never,High,High,Asian,Manual Labor,High,Single,High,Poor,Yes,Low,Yes,Urban,2,10,19,No,Yes,Yes,West,Benign
+42,Female,Yes,No,39.18439125522676,Good,Low,High,,Current,High,Low,Hispanic,Service,High,Married,Moderate,Average,Yes,Moderate,No,Urban,3,13,5,Yes,No,Yes,East,Malignant
+44,Female,Yes,No,19.527324540414053,Average,High,High,Multiple,Current,Low,Low,Asian,Manual Labor,Middle,Married,High,Good,Yes,Low,No,Rural,0,12,17,No,Yes,Yes,West,Benign
+41,Female,Yes,No,34.770272965085546,Good,Low,Moderate,Multiple,Former,High,High,Hispanic,Unemployed,Middle,Single,Moderate,Poor,No,Low,Yes,Rural,2,10,2,No,No,No,West,Malignant
+72,Female,No,Yes,19.37041955886138,Average,Moderate,,Multiple,Never,Low,Moderate,Hispanic,Office,High,Married,High,Poor,Yes,High,Yes,Rural,3,10,3,No,Yes,Yes,South,Benign
+79,Female,No,No,38.59666941736118,Poor,Moderate,,,Former,Moderate,Moderate,Asian,Service,Low,Divorced,High,Good,Yes,High,No,Urban,0,10,7,Yes,Yes,Yes,North,Benign
+79,Female,No,Yes,29.13512098248537,Good,Low,Moderate,,Current,Low,Moderate,African American,Manual Labor,High,Married,Low,Good,No,Low,Yes,Urban,0,11,14,No,No,No,West,Benign
+25,Female,Yes,No,29.739256027991324,Good,Low,Moderate,One,Never,Moderate,Low,Asian,Service,High,Widowed,Moderate,Average,Yes,Moderate,Yes,Urban,0,12,4,Yes,No,Yes,West,Benign
+36,Female,No,Yes,32.98459278722962,Good,Moderate,Low,One,Current,Moderate,Low,Asian,Service,Middle,Widowed,Low,Average,No,Low,No,Rural,0,10,18,Yes,No,Yes,North,Benign
+43,Female,No,No,27.32224158027278,Poor,High,High,,Former,Moderate,Moderate,Asian,Manual Labor,High,Divorced,Moderate,Poor,Yes,High,No,Urban,0,16,13,Yes,Yes,Yes,North,Benign
+66,Female,No,No,32.81551353314818,Average,Low,Moderate,,Never,Moderate,High,Hispanic,Manual Labor,Low,Widowed,High,Good,No,High,Yes,Urban,0,14,8,Yes,No,No,South,Benign
+67,Female,No,Yes,27.66925714992402,Average,Moderate,High,One,Current,Moderate,High,Asian,Service,Low,Single,High,Poor,No,Low,Yes,Rural,0,11,0,Yes,No,No,West,Benign
+61,Female,No,Yes,29.685729616022705,Poor,High,Low,One,Current,High,Moderate,Hispanic,Manual Labor,High,Married,Low,Poor,Yes,Low,No,Rural,0,16,1,Yes,Yes,Yes,North,Benign
+77,Female,No,Yes,22.389933920441194,Good,High,High,,Never,High,High,Asian,Manual Labor,Low,Single,High,Poor,No,Moderate,No,Rural,0,11,22,Yes,No,Yes,East,Benign
+52,Female,No,No,20.46223162675001,Good,High,,One,Current,High,Low,Hispanic,Office,Middle,Married,High,Average,Yes,Moderate,Yes,Rural,4,15,12,No,Yes,Yes,West,Benign
+43,Female,Yes,No,32.603699607679715,Average,High,Moderate,,Current,Low,Moderate,African American,Service,High,Divorced,Moderate,Good,Yes,Moderate,Yes,Urban,2,13,22,Yes,Yes,Yes,South,Malignant
+45,Female,Yes,No,35.633816461425766,Good,Low,Low,,Never,Low,Moderate,African American,Manual Labor,Middle,Single,Moderate,Average,No,High,No,Urban,0,16,8,Yes,No,No,East,Benign
+77,Female,Yes,Yes,30.31227103671211,Average,Moderate,Moderate,,Never,Low,Low,Asian,Office,High,Widowed,Moderate,Good,Yes,High,Yes,Urban,3,12,3,No,Yes,No,North,Benign
+76,Female,Yes,Yes,25.80991872830262,Average,Moderate,Low,One,Former,Low,Moderate,Hispanic,Office,High,Divorced,Low,Poor,No,Moderate,Yes,Rural,0,14,16,Yes,No,No,West,Benign
+22,Female,No,No,34.92470766010948,Good,High,,Multiple,Former,High,High,Caucasian,Office,Low,Widowed,Moderate,Good,No,Low,No,Rural,3,10,10,Yes,No,No,West,Benign
+45,Female,Yes,Yes,19.58836499754187,Average,High,High,Multiple,Never,Moderate,High,Asian,Manual Labor,High,Divorced,High,Poor,Yes,High,Yes,Rural,0,10,15,No,No,Yes,East,Malignant
+78,Female,No,No,32.12337300975185,Average,High,,Multiple,Current,High,High,Hispanic,Manual Labor,High,Single,Low,Poor,No,Low,Yes,Rural,3,12,11,Yes,No,No,West,Benign
+72,Female,Yes,No,18.730468393410064,Good,Low,High,,Current,Moderate,Low,Hispanic,Service,Middle,Married,Low,Poor,No,Low,Yes,Rural,3,14,12,No,No,Yes,East,Benign
+41,Female,Yes,Yes,32.6710136660143,Average,Moderate,Moderate,Multiple,Former,Moderate,Low,Hispanic,Service,High,Divorced,Moderate,Good,No,High,No,Rural,3,11,0,Yes,Yes,Yes,West,Benign
+79,Female,No,Yes,27.951002259402603,Good,Moderate,,One,Current,Moderate,Moderate,Hispanic,Manual Labor,High,Married,High,Average,No,High,No,Rural,2,10,10,No,No,No,North,Benign
+37,Female,No,Yes,26.73359337563424,Good,Low,High,Multiple,Never,Low,High,Hispanic,Service,Middle,Single,Moderate,Average,Yes,Moderate,No,Rural,2,14,23,No,Yes,Yes,South,Benign
+51,Female,No,Yes,23.71589059239076,Average,Low,High,Multiple,Former,Low,High,African American,Unemployed,Low,Divorced,High,Average,Yes,Moderate,Yes,Urban,0,14,23,No,Yes,Yes,East,Malignant
+41,Female,Yes,No,32.10138570159731,Average,High,High,Multiple,Former,High,High,African American,Office,Low,Married,Moderate,Good,No,Low,No,Urban,2,16,17,No,Yes,No,South,Benign
+74,Female,No,Yes,19.61031032290576,Poor,Moderate,Low,One,Never,Low,Low,Asian,Office,Low,Single,Moderate,Average,Yes,High,No,Rural,3,10,10,No,Yes,Yes,North,Benign
+51,Female,Yes,Yes,31.441581754721817,Average,High,Moderate,,Never,Low,High,African American,Manual Labor,Low,Widowed,Moderate,Poor,Yes,Low,Yes,Urban,2,13,7,No,Yes,Yes,East,Malignant
+48,Female,Yes,Yes,28.11560932292505,Poor,Moderate,,One,Former,Low,High,Caucasian,Unemployed,High,Widowed,Moderate,Average,No,Low,Yes,Rural,0,14,2,No,Yes,No,North,Benign
+36,Female,No,Yes,32.30442403275937,Average,High,High,One,Former,High,High,Hispanic,Office,Low,Single,High,Average,No,Low,Yes,Rural,1,11,13,No,Yes,No,South,Benign
+45,Female,No,No,25.32604208728036,Average,Moderate,High,Multiple,Never,High,High,Hispanic,Manual Labor,High,Divorced,Low,Average,No,High,No,Urban,4,14,15,Yes,No,Yes,North,Benign
+70,Female,Yes,No,18.40111681887996,Average,Low,Moderate,Multiple,Former,Moderate,Low,Asian,Manual Labor,Middle,Divorced,Low,Average,No,High,Yes,Urban,0,11,6,Yes,Yes,No,East,Benign
+25,Female,No,Yes,25.140888257805948,Poor,Moderate,Moderate,One,Never,Low,Moderate,Hispanic,Unemployed,Middle,Widowed,Moderate,Average,Yes,Low,No,Rural,0,16,10,Yes,Yes,No,North,Benign
+39,Female,No,Yes,27.87125969769568,Poor,High,Low,One,Never,High,Low,Hispanic,Office,High,Married,High,Poor,No,Moderate,Yes,Urban,3,16,9,No,No,No,North,Benign
+67,Female,Yes,No,34.21122238877201,Poor,Moderate,Moderate,One,Current,Low,Moderate,Hispanic,Service,Low,Married,High,Average,Yes,High,Yes,Rural,0,11,18,No,No,No,South,Malignant
+37,Female,No,Yes,27.895262274069097,Average,Moderate,Low,,Former,Moderate,Moderate,Caucasian,Manual Labor,Middle,Married,High,Average,No,Low,No,Urban,0,15,9,Yes,Yes,No,East,Malignant
+71,Female,No,No,35.666569752318594,Good,Low,,Multiple,Current,High,Moderate,Hispanic,Unemployed,High,Widowed,Moderate,Poor,Yes,Moderate,Yes,Urban,1,16,15,Yes,No,No,South,Benign
+45,Female,No,No,28.472398846112863,Good,Moderate,High,One,Former,High,High,Caucasian,Manual Labor,Low,Divorced,Moderate,Poor,Yes,High,No,Urban,1,11,13,No,Yes,No,East,Benign
+61,Female,No,No,25.14287039158132,Average,Low,,,Former,High,Moderate,African American,Manual Labor,Middle,Single,Moderate,Poor,Yes,High,No,Urban,0,15,1,Yes,Yes,Yes,East,Benign
+48,Female,Yes,Yes,23.10283611455145,Average,Moderate,High,,Current,Low,Moderate,Asian,Unemployed,Middle,Single,Moderate,Good,No,Moderate,Yes,Urban,1,12,0,No,No,No,North,Malignant
+78,Female,No,Yes,29.788209058407787,Good,High,,,Never,Moderate,Low,African American,Manual Labor,Low,Married,High,Poor,Yes,Low,No,Urban,4,15,1,Yes,Yes,No,South,Benign
+51,Female,No,No,35.73183609505348,Average,Low,High,Multiple,Current,Moderate,Moderate,Hispanic,Office,Low,Widowed,Moderate,Good,No,High,No,Urban,0,14,22,Yes,Yes,No,North,Benign
+47,Female,Yes,No,35.55190027488996,Average,High,Moderate,,Former,Low,Low,Asian,Office,Middle,Married,High,Poor,No,Low,No,Urban,0,12,14,No,No,Yes,South,Benign
+56,Female,No,Yes,22.440775946704864,Good,Low,,One,Current,Moderate,Low,Asian,Service,Middle,Divorced,Low,Poor,No,Low,Yes,Rural,1,10,12,Yes,Yes,Yes,South,Benign
+66,Female,No,Yes,34.0949694786173,Good,Moderate,Low,,Never,Low,Moderate,Hispanic,Service,Low,Married,Moderate,Average,No,Low,No,Urban,2,10,0,No,No,Yes,East,Benign
+47,Female,No,No,31.27586905439032,Average,Moderate,,One,Current,Moderate,High,African American,Unemployed,Middle,Widowed,Low,Poor,Yes,Low,Yes,Urban,2,15,14,No,No,Yes,East,Malignant
+78,Female,No,No,25.61419398383128,Poor,Low,Moderate,Multiple,Never,High,High,Asian,Office,Low,Married,High,Poor,No,Moderate,No,Rural,1,14,10,Yes,No,Yes,South,Benign
+64,Female,Yes,No,26.951975135903155,Good,Low,High,Multiple,Never,Moderate,Low,African American,Office,High,Widowed,Moderate,Good,No,Low,Yes,Rural,0,14,0,No,Yes,Yes,North,Benign
+38,Female,Yes,Yes,33.293180189047064,Poor,Moderate,Low,Multiple,Current,Moderate,Low,Caucasian,Manual Labor,High,Single,Low,Poor,Yes,High,No,Rural,1,14,5,No,No,Yes,East,Benign
+75,Female,Yes,Yes,21.985285689762968,Average,Low,High,Multiple,Current,Moderate,High,Asian,Unemployed,High,Married,Moderate,Good,Yes,Moderate,Yes,Rural,2,13,17,Yes,Yes,No,South,Benign
+64,Female,No,Yes,26.603793806338736,Good,Moderate,,Multiple,Current,High,Moderate,African American,Unemployed,Low,Widowed,Moderate,Poor,No,Low,Yes,Urban,4,12,8,Yes,No,Yes,East,Malignant
+40,Female,No,No,35.37336715713454,Average,Moderate,,One,Former,High,Low,African American,Manual Labor,High,Widowed,Moderate,Average,No,High,No,Rural,0,10,12,Yes,Yes,No,West,Benign
+33,Female,Yes,Yes,20.560060753480474,Poor,High,Low,Multiple,Former,High,High,Caucasian,Service,High,Single,High,Good,No,Low,No,Rural,3,14,11,Yes,Yes,No,West,Benign
+71,Female,Yes,No,20.308463925199845,Poor,High,Moderate,Multiple,Former,Moderate,Moderate,Caucasian,Manual Labor,Middle,Divorced,High,Poor,No,High,No,Rural,2,15,3,Yes,No,Yes,East,Malignant
+56,Female,No,No,21.129486111118315,Average,Moderate,,Multiple,Never,High,Low,African American,Service,Middle,Divorced,High,Average,Yes,High,No,Rural,3,15,21,No,Yes,Yes,North,Malignant
+73,Female,Yes,No,36.57585582027156,Good,Moderate,Moderate,One,Former,High,Moderate,African American,Manual Labor,High,Widowed,Moderate,Poor,Yes,Moderate,No,Rural,1,10,8,No,No,No,North,Malignant
+22,Female,No,Yes,22.822707721876974,Poor,Low,,,Current,Low,Low,Hispanic,Service,Low,Single,Low,Good,Yes,Low,No,Urban,1,15,8,Yes,Yes,No,South,Benign
+52,Female,No,No,39.18853245496182,Good,Moderate,High,,Current,Moderate,High,Caucasian,Manual Labor,High,Married,High,Good,No,Low,Yes,Rural,2,10,17,Yes,No,Yes,West,Benign
+23,Female,Yes,Yes,37.21531123779653,Good,High,High,One,Never,Moderate,Low,Hispanic,Office,High,Widowed,Low,Good,No,Low,No,Urban,3,10,14,No,Yes,No,West,Benign
+76,Female,No,No,29.97876015513869,Average,Low,High,One,Former,High,Low,African American,Manual Labor,High,Divorced,Moderate,Good,No,High,Yes,Rural,3,11,17,Yes,Yes,Yes,West,Malignant
+44,Female,No,No,25.46790423594173,Poor,High,High,One,Former,Moderate,Moderate,Hispanic,Manual Labor,High,Divorced,High,Average,No,High,No,Rural,2,14,23,Yes,No,Yes,West,Benign
+21,Female,Yes,No,33.59901775789352,Average,Moderate,High,Multiple,Current,High,High,Asian,Manual Labor,Middle,Married,Low,Good,No,High,No,Rural,4,14,21,Yes,Yes,No,East,Benign
+23,Female,No,No,32.098178923184534,Good,Moderate,High,Multiple,Former,High,Low,Hispanic,Office,High,Married,Moderate,Poor,Yes,Moderate,No,Rural,4,13,4,No,Yes,No,North,Malignant
+68,Female,No,No,19.960737506552366,Poor,High,Moderate,Multiple,Never,High,Moderate,Hispanic,Service,High,Single,Low,Good,Yes,Moderate,No,Urban,1,14,0,Yes,Yes,No,North,Malignant
+53,Female,Yes,Yes,33.748149223005946,Average,Low,Moderate,,Former,High,Low,African American,Manual Labor,Middle,Widowed,Low,Poor,No,Low,Yes,Rural,1,14,20,No,No,Yes,East,Benign
+76,Female,Yes,Yes,39.87106594686568,Good,Moderate,High,One,Current,Low,High,Asian,Manual Labor,Middle,Widowed,High,Average,Yes,High,Yes,Rural,0,16,2,No,Yes,No,West,Benign
+46,Female,No,No,18.26665704216565,Good,Moderate,Moderate,One,Current,Moderate,Moderate,Hispanic,Manual Labor,Middle,Divorced,High,Good,Yes,High,Yes,Urban,4,12,17,Yes,No,Yes,North,Benign
+26,Female,Yes,No,22.006594145151382,Average,Moderate,High,Multiple,Never,Moderate,High,Asian,Manual Labor,Middle,Divorced,High,Good,No,Moderate,No,Urban,1,10,11,No,No,Yes,West,Malignant
+67,Female,Yes,Yes,30.37052994931401,Good,High,Low,,Former,Moderate,High,Asian,Unemployed,High,Married,Moderate,Average,No,High,No,Urban,4,15,13,No,No,No,South,Benign
+21,Female,No,No,20.351292308084364,Good,Moderate,Low,One,Former,Moderate,High,Caucasian,Unemployed,Middle,Single,Low,Poor,No,Low,Yes,Urban,1,13,15,No,Yes,Yes,North,Benign
+78,Female,No,No,23.356610524678583,Poor,High,,Multiple,Current,High,Moderate,Asian,Service,Low,Married,Low,Good,No,Moderate,Yes,Urban,2,15,3,No,Yes,No,West,Malignant
+43,Female,Yes,Yes,25.71379248660197,Average,Low,Moderate,Multiple,Never,Moderate,Low,Hispanic,Unemployed,Low,Married,Moderate,Average,Yes,High,No,Rural,0,11,0,Yes,Yes,Yes,East,Malignant
+26,Female,Yes,Yes,20.82467436799076,Poor,Moderate,,Multiple,Never,High,Moderate,Asian,Unemployed,Middle,Widowed,High,Good,No,High,No,Rural,3,11,5,No,Yes,Yes,East,Benign
+37,Female,No,Yes,31.89432484203545,Poor,Low,Moderate,Multiple,Former,Moderate,Moderate,African American,Office,High,Married,Moderate,Poor,Yes,Moderate,No,Rural,3,16,6,No,Yes,No,East,Benign
+23,Female,No,No,22.587231315861388,Average,Low,Low,Multiple,Current,Low,High,Hispanic,Service,Middle,Single,High,Average,Yes,Moderate,No,Urban,3,12,4,Yes,No,Yes,West,Malignant
+21,Female,No,No,38.930873528546456,Average,High,Low,,Current,Moderate,Moderate,Asian,Unemployed,Low,Married,High,Average,Yes,Moderate,Yes,Rural,4,16,18,Yes,No,No,North,Benign
+24,Female,No,No,27.762504824700564,Average,High,High,One,Former,High,High,Caucasian,Office,High,Married,Moderate,Poor,Yes,Moderate,No,Urban,0,11,4,No,No,No,South,Malignant
+69,Female,No,Yes,29.419315399981947,Average,Low,High,Multiple,Never,Low,Moderate,African American,Office,High,Married,High,Average,Yes,High,Yes,Rural,0,16,21,Yes,Yes,Yes,West,Benign
+43,Female,Yes,No,35.27036396441525,Good,High,Low,,Former,Low,High,Caucasian,Unemployed,High,Married,Moderate,Poor,Yes,Moderate,No,Urban,2,15,21,No,No,No,East,Benign
+54,Female,No,No,22.5285066208089,Good,Moderate,Low,One,Never,High,High,Asian,Office,High,Widowed,Low,Good,Yes,High,No,Rural,0,13,9,Yes,Yes,Yes,West,Malignant
+79,Female,No,No,28.928870894901728,Good,High,,One,Current,Moderate,Low,Caucasian,Service,Middle,Married,Low,Average,No,High,Yes,Rural,3,10,8,No,Yes,No,East,Malignant
+28,Female,Yes,Yes,30.055108757421245,Good,High,,Multiple,Former,Low,Moderate,Asian,Service,Middle,Married,High,Poor,Yes,High,No,Rural,0,10,10,No,Yes,No,East,Benign
+59,Female,No,Yes,24.03153466431573,Average,Low,Moderate,One,Current,High,High,Asian,Unemployed,High,Married,High,Average,Yes,High,No,Rural,3,12,14,No,Yes,Yes,West,Benign
+51,Female,Yes,Yes,19.325882586370337,Good,High,,Multiple,Never,Moderate,High,Asian,Unemployed,Middle,Widowed,Moderate,Poor,Yes,Low,No,Rural,0,15,8,No,Yes,Yes,North,Malignant
+28,Female,Yes,No,32.49157106101927,Good,High,Low,,Never,Low,High,Asian,Unemployed,High,Married,Low,Poor,Yes,Moderate,No,Rural,4,11,7,Yes,Yes,No,West,Benign
+43,Female,Yes,Yes,36.52473247628127,Good,Low,Moderate,,Never,High,High,Hispanic,Service,High,Single,High,Average,No,High,No,Rural,3,16,20,No,Yes,Yes,South,Benign
+56,Female,Yes,Yes,39.46903562802089,Average,High,,Multiple,Former,Moderate,High,Hispanic,Manual Labor,High,Divorced,Low,Good,No,High,No,Urban,1,10,8,No,No,No,North,Benign
+22,Female,No,Yes,37.50529273529027,Good,Moderate,Low,One,Never,High,High,African American,Unemployed,High,Widowed,Moderate,Good,No,Low,Yes,Urban,2,11,1,Yes,Yes,No,East,Benign
+34,Female,Yes,No,31.592639284426703,Poor,High,Moderate,Multiple,Former,Moderate,Low,Asian,Unemployed,Low,Married,Moderate,Good,Yes,Moderate,No,Urban,2,11,1,Yes,Yes,Yes,North,Malignant
+65,Female,No,No,33.2275495172709,Good,Low,Low,Multiple,Former,Moderate,Moderate,Caucasian,Unemployed,Middle,Widowed,High,Good,No,Low,Yes,Rural,2,13,12,Yes,Yes,No,South,Benign
+58,Female,Yes,No,39.49783205286898,Good,High,Moderate,One,Never,Moderate,High,African American,Manual Labor,Middle,Widowed,High,Good,Yes,High,No,Rural,4,11,9,No,No,Yes,East,Benign
+27,Male,Yes,Yes,26.16285278566125,Average,Low,Moderate,,Former,Low,Moderate,African American,Service,Low,Single,High,Average,Yes,Low,Yes,Urban,3,13,4,No,No,Yes,South,Malignant
+56,Female,No,Yes,39.98710196695467,Poor,Low,Low,Multiple,Current,Moderate,Moderate,Asian,Office,Middle,Widowed,High,Average,No,Moderate,Yes,Urban,1,12,23,No,Yes,No,West,Malignant
+33,Female,Yes,Yes,33.23777094897562,Good,Low,High,Multiple,Former,High,High,Caucasian,Service,High,Married,Moderate,Poor,No,Moderate,Yes,Rural,0,10,8,No,Yes,No,East,Benign
+44,Female,Yes,No,23.02600430928857,Poor,Low,,Multiple,Never,High,Moderate,Asian,Service,Low,Single,Moderate,Poor,No,Moderate,Yes,Urban,2,12,0,Yes,Yes,Yes,South,Benign
+76,Female,Yes,Yes,37.17923846502843,Poor,Moderate,High,,Current,High,High,African American,Manual Labor,Middle,Divorced,High,Good,No,High,No,Urban,0,14,8,No,Yes,Yes,South,Malignant
+20,Female,No,Yes,19.323131537217275,Good,Moderate,Moderate,One,Never,Low,Low,African American,Unemployed,Middle,Married,Moderate,Average,Yes,High,Yes,Urban,0,14,6,Yes,No,No,South,Benign
+52,Female,Yes,No,39.02152131100856,Average,Moderate,,Multiple,Never,High,Moderate,Hispanic,Service,Low,Single,High,Average,Yes,High,No,Rural,0,10,3,Yes,No,No,North,Benign
+31,Female,Yes,No,29.8615480868556,Good,Moderate,Moderate,One,Former,Low,High,Asian,Unemployed,Low,Widowed,Moderate,Average,No,Moderate,Yes,Rural,3,10,4,No,Yes,No,West,Benign
+21,Female,Yes,No,22.403305373385823,Good,Moderate,Moderate,Multiple,Never,Low,High,Caucasian,Office,Low,Single,Moderate,Good,Yes,Low,No,Rural,2,11,6,Yes,Yes,No,East,Benign
+39,Female,Yes,Yes,33.233595329136136,Average,Low,,,Never,Moderate,Moderate,Hispanic,Service,Low,Widowed,Moderate,Poor,Yes,Moderate,Yes,Rural,4,10,21,Yes,Yes,No,East,Malignant
+61,Female,Yes,Yes,26.090705719300374,Poor,Low,High,,Current,High,Low,Caucasian,Manual Labor,High,Single,Moderate,Average,Yes,High,No,Rural,3,12,22,Yes,Yes,No,South,Benign
+54,Female,No,No,33.502976780206225,Poor,Moderate,,One,Former,Low,Moderate,African American,Service,High,Married,Moderate,Average,No,Low,Yes,Rural,3,11,20,No,Yes,No,West,Benign
+45,Female,Yes,No,37.45254219366497,Poor,Low,High,One,Current,Moderate,Low,Asian,Service,Middle,Widowed,Moderate,Average,No,Moderate,No,Rural,3,11,21,No,No,No,North,Benign
+48,Female,Yes,Yes,24.672053246487103,Poor,Low,Low,One,Former,High,Moderate,Asian,Unemployed,Low,Married,Low,Poor,No,Low,Yes,Urban,0,13,17,No,No,Yes,West,Benign
+34,Female,Yes,No,37.1565759074197,Good,Moderate,Moderate,,Former,Low,Low,Hispanic,Office,Low,Widowed,High,Good,No,High,Yes,Rural,4,10,4,No,No,Yes,North,Benign
+55,Female,Yes,No,39.82747632611288,Poor,High,Moderate,One,Current,Low,Moderate,Caucasian,Unemployed,Middle,Married,High,Average,No,High,No,Rural,1,10,11,No,No,Yes,South,Benign
+41,Female,Yes,No,30.90538618986043,Average,Low,High,,Former,Moderate,Moderate,Hispanic,Service,Low,Widowed,High,Poor,No,High,Yes,Urban,4,12,23,No,No,No,South,Benign
+27,Female,No,Yes,26.77058661099089,Good,Moderate,,Multiple,Current,Low,Low,Asian,Manual Labor,High,Single,Low,Average,Yes,High,No,Rural,0,14,2,Yes,No,No,North,Benign
+21,Female,No,No,28.2345234702418,Poor,High,Low,Multiple,Never,Moderate,Moderate,Asian,Manual Labor,Low,Single,High,Good,Yes,High,No,Urban,2,13,4,No,Yes,No,East,Benign
+56,Female,Yes,No,27.09808023355773,Poor,Low,Low,,Current,Moderate,High,Hispanic,Office,Low,Widowed,Low,Average,No,Moderate,No,Urban,2,16,12,Yes,No,No,East,Malignant
+55,Female,No,No,21.00167455624813,Good,High,High,One,Former,Low,Low,Caucasian,Service,Middle,Widowed,High,Good,No,Low,No,Urban,2,14,8,Yes,No,No,West,Benign
+67,Female,Yes,No,39.232611321593,Poor,Low,Low,One,Former,Moderate,Low,African American,Service,High,Divorced,Low,Average,No,High,Yes,Urban,0,12,1,No,Yes,Yes,North,Benign
+70,Female,Yes,Yes,36.57174987732233,Poor,High,Low,One,Former,High,High,Caucasian,Unemployed,Middle,Single,Moderate,Good,Yes,High,Yes,Rural,2,10,17,No,Yes,No,South,Benign
+42,Female,Yes,Yes,38.93985927931126,Good,Moderate,Low,,Never,High,High,Hispanic,Service,High,Widowed,High,Good,Yes,High,Yes,Urban,1,14,17,Yes,Yes,No,East,Benign
+43,Female,Yes,No,21.353152293269183,Poor,Low,,Multiple,Never,Moderate,Moderate,African American,Office,Middle,Single,Moderate,Good,No,Moderate,No,Rural,2,13,18,Yes,Yes,No,West,Benign
+33,Female,No,Yes,23.439083636869896,Average,Low,High,One,Current,Moderate,High,Asian,Manual Labor,Low,Widowed,Moderate,Good,Yes,Moderate,Yes,Rural,4,10,16,Yes,No,No,East,Benign
+67,Female,No,No,24.66882383079723,Poor,Moderate,Moderate,One,Never,Moderate,Low,Caucasian,Service,Middle,Widowed,Low,Good,No,Moderate,No,Urban,2,10,5,No,Yes,No,West,Benign
+48,Female,No,Yes,31.705264838396623,Good,Low,Low,One,Former,Moderate,High,African American,Service,High,Single,Low,Good,Yes,Low,Yes,Rural,3,12,8,No,No,Yes,East,Benign
+44,Female,No,No,22.281695260056832,Poor,Low,,,Never,Moderate,Moderate,African American,Service,Low,Divorced,Moderate,Good,Yes,Low,No,Rural,4,14,15,Yes,No,No,South,Benign
+50,Female,Yes,No,35.607843172091954,Average,Moderate,Low,Multiple,Never,High,High,Asian,Manual Labor,Middle,Married,High,Poor,No,Low,No,Rural,2,11,18,No,No,Yes,South,Benign
+30,Female,Yes,No,26.211539415845483,Good,Low,Low,One,Current,High,Moderate,Hispanic,Unemployed,Low,Widowed,Moderate,Average,Yes,Low,Yes,Urban,0,15,2,Yes,Yes,Yes,West,Malignant
+43,Female,Yes,No,28.58957133597712,Average,Low,Low,One,Never,Moderate,Moderate,Caucasian,Service,High,Married,Moderate,Good,No,High,No,Rural,2,16,15,No,Yes,Yes,South,Benign
+44,Female,No,Yes,23.471713996927857,Average,Moderate,Moderate,,Current,High,Low,Caucasian,Office,Middle,Divorced,High,Poor,No,High,Yes,Rural,3,14,23,Yes,No,No,West,Benign
+59,Male,Yes,No,25.903134126794846,Average,High,High,One,Never,Low,Moderate,Hispanic,Service,Middle,Married,High,Average,Yes,Low,Yes,Urban,4,14,23,No,No,No,East,Benign
+72,Female,No,Yes,35.61290738039982,Poor,Moderate,Low,Multiple,Former,High,Moderate,Asian,Office,High,Single,Low,Good,Yes,Moderate,Yes,Urban,1,11,4,Yes,Yes,Yes,South,Benign
+42,Female,No,No,19.060664854932234,Good,Low,Moderate,Multiple,Former,Low,Low,Asian,Unemployed,High,Married,High,Average,No,Moderate,Yes,Urban,2,15,3,No,No,No,West,Benign
+26,Female,No,Yes,27.360853357857657,Average,High,High,One,Former,Low,Moderate,Hispanic,Manual Labor,Middle,Married,Low,Average,Yes,Moderate,Yes,Urban,4,10,7,Yes,No,Yes,South,Benign
+37,Female,Yes,Yes,39.327071091376325,Poor,Moderate,,One,Former,Moderate,Moderate,Hispanic,Service,High,Single,Moderate,Good,Yes,Moderate,Yes,Urban,1,12,2,No,Yes,Yes,North,Benign
+52,Female,No,Yes,30.10498392743776,Poor,Low,,Multiple,Never,Moderate,Moderate,African American,Office,Low,Widowed,High,Average,No,Low,Yes,Urban,1,10,10,Yes,No,No,North,Malignant
+56,Female,Yes,Yes,33.18010759805465,Good,Low,High,One,Current,Low,Moderate,Asian,Unemployed,Middle,Single,Low,Poor,No,High,No,Rural,0,10,12,No,Yes,Yes,West,Benign
+65,Female,No,Yes,19.279603501120462,Average,Moderate,High,One,Never,High,Low,Caucasian,Service,Middle,Single,High,Poor,No,Low,No,Rural,3,14,10,Yes,No,No,South,Benign
+76,Female,Yes,No,29.325981786453184,Good,High,High,One,Current,Low,High,African American,Service,High,Single,Low,Average,Yes,High,No,Urban,3,13,7,No,No,No,North,Benign
