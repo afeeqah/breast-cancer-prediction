@@ -1,0 +1,71 @@
+/* logreg.css */
+
+/* Import the desired font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Global Styles */
+body {
+    font-family: 'Roboto Slab', serif; /* Use the imported font */
+    margin: 0;
+    padding: 0;
+    background-color: #FFC0CB; /* Pink color */
+}
+
+/* Form Styles */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center the content */
+}
+
+h2 {
+    text-align: center;
+    color: #800000; /* Maroon color */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 22px); /* Adjusted width */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center; /* Center the text */
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #800000; /* Maroon color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #B22222; /* Darker Maroon color */
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.success-message {
+    color: green;
+    margin-top: 5px;
+    font-size: 14px;
+}

@@ -1,0 +1,171 @@
+/* Ensure the content is pushed to the right to accommodate the sidebar */
+body {
+    margin-left: 260px; /* Adjust margin to make space for the sidebar */
+    padding: 20px;
+    font-family: 'Roboto Slab', serif; /* Use the same font as the sidebar for consistency */
+    background-color: #fff; /* White background for the main content */
+    color: #343a40; /* Dark gray text color */
+}
+
+/* Container for the model details */
+.model-details, .model-history, .model-metrics, .search-container, .metrics-history {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dee2e6; /* Light gray border */
+    border-radius: 5px;
+    background-color: #f5f5f5; /* Light gray background */
+}
+
+/* Header styles */
+h2, h3 {
+    text-align: center;
+    color: maroon;
+}
+
+/* Table styles */
+.table-container {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: auto; /* Add horizontal scroll */
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid maroon;
+    padding: 10px;
+    text-align: left;
+    transition: background-color 0.3s;
+}
+
+th {
+    background-color: maroon;
+    color: white;
+}
+
+td {
+    background-color: #ffe4e1; /* Light pink background for table cells */
+}
+
+table tr:hover td {
+    background-color: #f1f1f1;
+}
+
+td a {
+    color: maroon;
+    text-decoration: none;
+}
+
+td a:hover {
+    text-decoration: underline;
+}
+
+/* Chart container */
+.model-metrics canvas {
+    margin-top: 20px;
+}
+
+/* Center content */
+.center-content {
+    text-align: center;
+}
+
+/* Retrain container */
+.retrain-container {
+    margin-bottom: 20px;
+}
+
+.retrain-container button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.retrain-container button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+/* Search container */
+.search-container {
+    margin-bottom: 20px;
+}
+
+.search-container input[type="number"], .search-container input[type="date"] {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search-container button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.search-container button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+/* Style for the main container */
+.container {
+    padding: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* Style for section containers */
+.section {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.section p {
+    background-color: #800000; /* Maroon color */
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.section p:hover {
+    background-color: #a52a2a; /* Lighter maroon color */
+}
+
+/* Ensure consistent style between User Feedback and Recent Activity */
+.section .activity,
+.section .feedback {
+    background-color: #800000; /* Maroon color */
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.section .activity:hover,
+.section .feedback:hover {
+    background-color: #a52a2a; /* Lighter maroon color */
+}

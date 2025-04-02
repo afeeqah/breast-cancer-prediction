@@ -1,0 +1,161 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    margin-left: 270px;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+}
+
+h2 {
+    text-align: center;
+    color: #800000;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #800000;
+}
+
+input[type="text"],
+input[type="color"],
+textarea,
+input[type="file"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #800000;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #800000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #550000;
+}
+
+.advice-list, .prevention-list {
+    margin-top: 30px;
+}
+
+.advice, .prevention {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffe6e6;
+    border-left: 5px solid #800000;
+}
+
+.advice h4, .prevention h4 {
+    margin: 0 0 10px;
+    color: #800000;
+}
+
+.advice p, .prevention p {
+    margin: 0;
+    color: #800000;
+}
+
+.advice img, .prevention img {
+    display: block;
+    margin: 10px 0;
+    max-width: 100%;
+}
+
+.existing-image {
+    margin-top: 10px;
+}
+
+.popup-container {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    z-index: 1000;
+}
+
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.popup-container.active, .popup-overlay.active {
+    display: block;
+}
+
+.scrollable-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.scrollable-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.scrollable-list li:hover {
+    background-color: #f0f0f0;
+}
+
+.arrow {
+    cursor: pointer;
+    color: #800000;
+}
+
+.arrow:hover {
+    color: #550000;
+}
+
+.action-button {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #800000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.action-button:hover {
+    background-color: #550000;
+}

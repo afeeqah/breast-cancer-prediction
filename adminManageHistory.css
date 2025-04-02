@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container {
+    margin-left: 260px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 100vh;
+}
+
+h2 {
+    color: maroon;
+    text-align: center;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+.search-form input[type="text"] {
+    padding: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-form input[type="text"]:hover {
+    border-color: #800000;
+    box-shadow: 0 0 5px rgba(128, 0, 0, 0.5);
+}
+
+.search-form input[type="text"]#date {
+    padding: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-form input[type="text"]#date:hover {
+    border-color: #800000;
+    box-shadow: 0 0 5px rgba(128, 0, 0, 0.5);
+}
+
+.search-form button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.search-form button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+.table-container {
+    overflow-x: auto;
+    overflow-y: auto;
+    max-height: 500px;
+    white-space: nowrap;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    border: 1px solid maroon;
+    padding: 10px;
+    text-align: left;
+    transition: background-color 0.3s;
+}
+
+table th {
+    background-color: maroon;
+    color: whitesmoke;
+}
+
+table td {
+    background-color: #ffe4e1;
+}
+
+table td.data-column {
+    width: 400px; /* Set a larger width for the Data column */
+    word-wrap: break-word; /* Wrap text within the column */
+}
+
+table tr:hover td {
+    background-color: #f1f1f1;
+}
+
+table td button.action-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+table td button.action-btn img {
+    width: 20px;
+    height: 20px;
+    display: block;
+}
+
+table td button.action-btn:hover img {
+    filter: brightness(0.8);
+}
+
+.inline-form {
+    display: inline;
+}
+
+h3 {
+    color: maroon;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    table {
+        font-size: 0.9em;
+    }
+
+    table th, table td {
+        padding: 5px;
+    }
+
+    table td button.action-btn img {
+        width: 16px;
+        height: 16px;
+    }
+}

@@ -1,0 +1,72 @@
+/* Import the desired font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Style for the sidebar container */
+.sidebar {
+    font-family: 'Roboto Slab', serif; /* Use the imported font */
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #f8f9fa; /* Light gray background */
+    padding-top: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Style for the sidebar header */
+.sidebar h2 {
+    color: #343a40; /* Dark gray color for text */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style for the sidebar links */
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    padding: 10px;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: #343a40; /* Dark gray color for text */
+    display: block;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Add transition for hover effect */
+}
+
+/* Style for the nested lists */
+.sidebar ul ul {
+    padding-left: 20px;
+}
+
+/* Style for the nested list items */
+.sidebar ul ul li {
+    padding: 5px;
+}
+
+/* Change color of links on hover */
+.sidebar ul li a:hover {
+    background-color: #e9ecef; /* Slightly darker gray on hover */
+    color: #800000; /* Maroon color on hover */
+}
+
+/* Divider line */
+.sidebar ul li {
+    border-bottom: 1px solid #dee2e6; /* Light gray divider line */
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+    display: none;
+}
+
+/* Add hover effects to dropdown menu */
+.sidebar ul li .dropdown-toggle:hover + .dropdown-menu,
+.sidebar ul li .dropdown-menu:hover {
+    display: block;
+    background-color: #f8f9fa; /* Consistent background for dropdown */
+}

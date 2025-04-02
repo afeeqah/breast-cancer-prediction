@@ -1,0 +1,83 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    color: maroon;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Step Container Styles */
+.step-container {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease; /* Added transition for hover effect */
+}
+
+.step-container:hover {
+    background-color: lightgrey; /* Change background color on hover */
+}
+
+/* Step Title Styles */
+.step h2 {
+    color: black;
+    margin-bottom: 10px;
+}
+
+/* List styles */
+.step ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* List item styles */
+.step li {
+    margin-bottom: 5px;
+}
+
+/* Hyperlink styles */
+a {
+    color: green; /* Maroon text color */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Added transition for hover effect */
+}
+
+a:hover {
+    color: darkgreen; /* Change text color on hover */
+    text-decoration: underline;
+}
+
+/* Video tutorial section */
+.tutorial {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease; /* Added transition for hover effect */
+}
+
+.tutorial:hover {
+    background-color: lightgrey; /* Change background color on hover */
+}
+
+.tutorial h2 {
+    color: grey; /* Maroon text color */
+    margin-bottom: 10px;
+}
+
+/* Image hover effect */
+.step img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for hover effect */
+}
+
+.step img:hover {
+    transform: scale(1.05); /* Slightly enlarge the image on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}

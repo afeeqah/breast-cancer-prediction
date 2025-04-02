@@ -1,0 +1,157 @@
+/* Container for the admin manage form section */
+.container {
+    margin-left: 270px; /* Adjust to not be blocked by sidebar */
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Section header */
+.container h2 {
+    text-align: center;
+    color: maroon;
+}
+
+/* Form containers for field management */
+.field {
+    margin-bottom: 10px;
+}
+
+.field label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.field input[type="text"],
+.field input[type="number"],
+.field select {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.field button {
+    padding: 5px 10px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.field button:hover {
+    background-color: darkred;
+}
+
+/* Column container */
+.column-container {
+    border: 1px solid maroon;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+/* Add field button */
+button[type="button"] {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+button[type="button"]:hover {
+    background-color: darkred;
+}
+
+/* Save changes button */
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+input[type="submit"]:hover {
+    background-color: darkred;
+}
+
+/* Form preview styling */
+#form-preview {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+#form-preview h4 {
+    color: maroon;
+    text-align: center;
+}
+
+#form-preview form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form-preview label {
+    display: block;
+    margin-bottom: 5px;
+    color: maroon;
+}
+
+#form-preview input[type="text"],
+#form-preview input[type="number"],
+#form-preview select {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    width: 80%;
+}
+
+#form-preview input[type="text"]:hover,
+#form-preview input[type="number"]:hover,
+#form-preview select:hover {
+    border-color: darkred;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid maroon;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: maroon;
+    color: whitesmoke;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}

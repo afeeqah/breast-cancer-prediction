@@ -1,0 +1,35 @@
+body {
+    background-color: pink; /* Light pink background */
+    font-family: 'Roboto Slab', serif;
+    color: maroon; /* Maroon text color */
+}
+
+h2 {
+    margin-top: 20px;
+    color: maroon;
+    text-align: center; /* Center align text */
+}
+
+.form-container {
+    text-align: center; /* Center the form container */
+    margin-top: 20px;
+}
+
+form {
+    display: inline-block; /* Align forms horizontally */
+    margin: 10px; /* Add space between buttons */
+}
+
+.dataset-button {
+    width: 200px; /* Set a specific width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 12px; /* Rounded corners */
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s; /* Smooth zoom and shadow on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.dataset-button:hover {
+    transform: scale(1.1); /* Zoom effect on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Larger shadow on hover */
+}

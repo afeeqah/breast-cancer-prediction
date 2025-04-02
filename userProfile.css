@@ -1,0 +1,90 @@
+/* Import the desired font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Global Styles */
+body {
+    background-color: #ffd6e0; /* Pink background */
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+}
+
+.container {
+    max-width: 600px;
+    margin: 60px auto 0;
+    padding: 20px;
+    background-color: #fff; /* White container background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for hover effect */
+}
+
+.container:hover {
+    transform: scale(1.02); /* Slightly enlarge the container on hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+h2 {
+    color: #800000; /* Maroon text */
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+}
+
+.profile-info {
+    text-align: center;
+}
+
+.profile-info img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for hover effect */
+}
+
+.profile-info img:hover {
+    transform: scale(1.1); /* Slightly enlarge the image on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+.profile-info p {
+    margin-bottom: 10px;
+    color: #800000; /* Maroon text */
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #800000; /* Maroon button */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transition for hover effect */
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    margin-top: 20px; /* Adjust margin as needed */
+}
+
+.btn:hover {
+    background-color: #bf616a; /* Lighter maroon button on hover */
+    transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+.activity-log {
+    margin-top: 30px;
+}
+
+.activity-log h3 {
+    color: #800000; /* Maroon text */
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+}
+
+.activity-log p {
+    color: #800000; /* Maroon text */
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+}

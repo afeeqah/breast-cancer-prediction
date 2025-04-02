@@ -1,0 +1,76 @@
+body {
+    background-color: #ffd6e0; /* Pink background */
+}
+
+.container {
+    max-width: 600px;
+    margin: 60px auto 0;
+    padding: 20px;
+    background-color: #fff; /* White container background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #800000; /* Maroon text */
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #800000; /* Maroon text */
+    text-align: left; /* Align label text to left */
+}
+
+.input-group input[type="password"],
+.input-group meter {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.input-group meter {
+    margin-top: 5px;
+}
+
+.input-group span.error {
+    color: #ff0000; /* Red color for error messages */
+}
+
+/* Error message styling */
+.error {
+color: red;
+font-size: 12px;
+margin-top: 4px;
+}
+
+.required {
+color: red;
+}
+
+.btn-container {
+    text-align: center;
+    margin-top: 20px; /* Add margin to separate buttons from input fields */
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #800000; /* Maroon button */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px; /* Add margin between buttons */
+    text-decoration: none; /* Remove underline */
+}
+
+.btn:hover {
+    background-color: #bf616a; /* Lighter maroon button on hover */
+}

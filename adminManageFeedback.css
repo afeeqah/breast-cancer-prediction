@@ -1,0 +1,141 @@
+.container {
+    margin-left: 260px; /* Adjust to not be blocked by sidebar */
+    padding: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container h2 {
+    text-align: center;
+    color: maroon;
+}
+
+/* Search form styling */
+.search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+.search-form input[type="text"],
+.search-form select,
+.search-form input[type="text"]#date {
+    padding: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-form input[type="text"]:hover,
+.search-form select:hover,
+.search-form input[type="text"]#date:hover {
+    border-color: #800000; /* Maroon color */
+    box-shadow: 0 0 5px rgba(128, 0, 0, 0.5); /* Maroon shadow */
+}
+
+.search-form button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.search-form button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    border: 1px solid maroon;
+    padding: 10px;
+    text-align: left;
+    transition: background-color 0.3s;
+}
+
+table th {
+    background-color: maroon;
+    color: whitesmoke;
+}
+
+table td {
+    background-color: #ffe4e1; /* Light pink background for table cells */
+}
+
+table tr:hover td {
+    background-color: #f1f1f1;
+}
+
+/* Delete button styling */
+table td button.action-btn, table td button.btn-reply {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+table td button.action-btn img {
+    width: 20px;
+    height: 20px;
+}
+
+table td button.action-btn:hover img,
+table td button.btn-reply:hover {
+    filter: brightness(0.8);
+}
+
+.inline-form {
+    display: inline;
+}
+
+/* Pagination styling */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-link {
+    padding: 10px 15px;
+    margin: 0 5px;
+    background-color: maroon;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.page-link:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+.page-link.active {
+    background-color: darkred;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    table {
+        font-size: 0.9em;
+    }
+
+    table th, table td {
+        padding: 5px;
+    }
+
+    table td button.btn-delete {
+        padding: 3px 5px;
+    }
+}

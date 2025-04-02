@@ -1,0 +1,104 @@
+/* Import the desired font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Global Styles */
+body {
+    background-color: pink; /* Light gray background */
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif; /* Apply the Roboto Slab font */
+    color: #343a40; /* Dark gray text color */
+}
+
+/* Container Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Welcome Message */
+.welcome-message {
+    color: #800000; /* Maroon color */
+    text-align: center;
+}
+
+/* Introduction Paragraph */
+.intro {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Main Grid Styles */
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+/* Section Styles */
+.section-feature, .section-privacy, .section-faq, .section-action, .section-resource, .section-contact {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for hover effect */
+}
+
+.section-feature:hover, .section-privacy:hover, .section-faq:hover, .section-action:hover, .section-resource:hover, .section-contact:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+/* Section Header */
+.section-feature h2, .section-privacy h2, .section-faq h2, .section-action h2, .section-resource h2, .section-contact h2 {
+    color: #800000; /* Maroon color */
+    margin-bottom: 10px;
+}
+
+/* Sub-container Styles */
+.sub-container {
+    margin-bottom: 20px;
+}
+
+/* Feature Images */
+.feature-image {
+    max-width: 50%; /* Set the maximum width */
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto; /* Center the image */
+    transition: opacity 0.3s ease, box-shadow 0.3s ease; /* Added transition for hover effect */
+}
+
+.feature-image:hover {
+    opacity: 0.8; /* Slightly reduce the opacity on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+/* Link Styles */
+a {
+    color: #800000; /* Maroon color */
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease; /* Added transition for hover effect */
+}
+
+a:hover {
+    color: #a52a2a; /* Darker maroon color on hover */
+    text-decoration: underline;
+}
+
+/* List Styles */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* List Item Styles */
+li {
+    margin-bottom: 10px;
+}
+
+/* Contact Information Styles */
+.section-contact p {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,72 @@
+/* Container for the upload form */
+.form-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-container h2 {
+    text-align: center;
+    color: maroon;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-container input[type="file"],
+.form-container input[type="text"],
+.form-container input[type="submit"],
+.form-container button {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-container input[type="submit"],
+.form-container button {
+    background-color: maroon;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.form-container input[type="submit"]:hover,
+.form-container button:hover {
+    background-color: darkred;
+}
+
+.scrollable-table {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.scrollable-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.scrollable-table th, .scrollable-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.scrollable-table th {
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: pink; /* Pink background */
+    color: #800000; /* Maroon text */
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #800000; /* Maroon */
+    margin-top: 20px;
+}
+
+.result-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FFE4E1; /* Light pink */
+    border: 2px solid #800000; /* Maroon border */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.result-container p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.result-container .metric {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #800000; /* Maroon */
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #800000; /* Maroon */
+    color: #FFF; /* White text */
+}
+
+td {
+    background-color: #FFE4E1; /* Light pink */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #800000; /* Maroon */
+    color: #FFF; /* White text */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

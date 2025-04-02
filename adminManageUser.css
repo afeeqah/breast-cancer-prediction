@@ -1,0 +1,185 @@
+.container {
+    margin-left: 260px; /* Adjust to not be blocked by sidebar */
+    padding: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container h2 {
+    text-align: center;
+    color: maroon;
+}
+
+/* Form containers for search, export, and add user */
+.form-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-form input[type="text"],
+.form-row input[type="text"],
+.form-row input[type="email"],
+.form-row input[type="password"] {
+    padding: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-form input[type="text"]:hover,
+.form-row input[type="text"]:hover,
+.form-row input[type="email"]:hover,
+.form-row input[type="password"]:hover {
+    border-color: #800000; /* Maroon color */
+    box-shadow: 0 0 5px rgba(128, 0, 0, 0.5); /* Maroon shadow */
+}
+
+.search-form button,
+.form-row button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.search-form button:hover,
+.form-row button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+/* Error message styling */
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    border: 1px solid maroon;
+    padding: 10px;
+    text-align: left;
+    transition: background-color 0.3s;
+}
+
+table th {
+    background-color: maroon;
+    color: whitesmoke;
+}
+
+table td {
+    background-color: #ffe4e1; /* Light pink background for table cells */
+}
+
+table tr:hover td {
+    background-color: #f1f1f1;
+}
+
+table td img {
+    border-radius: 50%;
+}
+
+/* Action buttons */
+.action-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.action-btn img {
+    width: 20px;
+    height: 20px;
+}
+
+.action-btn:hover img {
+    filter: brightness(0.8);
+}
+
+/* Pagination styling */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-link {
+    padding: 10px 15px;
+    margin: 0 5px;
+    background-color: maroon;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.page-link:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}
+
+.page-link.active {
+    background-color: darkred;
+}
+
+/* Popup form styling */
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: whitesmoke;
+    padding: 20px;
+    border: 2px solid maroon;
+    border-radius: 10px;
+    z-index: 1000;
+}
+
+.popup h2 {
+    text-align: center;
+    color: maroon;
+    margin-bottom: 20px;
+}
+
+.popup form input[type="text"],
+.popup form input[type="email"],
+.popup form input[type="password"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+}
+
+.popup form button,
+.popup button {
+    padding: 10px 20px;
+    background-color: maroon;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.popup form button:hover,
+.popup button:hover {
+    background-color: darkred;
+    transform: translateY(-3px);
+}

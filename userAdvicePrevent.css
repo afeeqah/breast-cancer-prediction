@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: pink;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #800000;
+}
+
+h3 {
+    color: #800000;
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.advice, .prevention {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffe6e6;
+    border-left: 5px solid #800000;
+}
+
+.advice h4, .prevention h4 {
+    margin: 0 0 10px;
+    color: #800000;
+}
+
+.advice p, .prevention p {
+    margin: 0;
+}
+
+.advice img, .prevention img {
+    display: block;
+    margin: 10px 0;
+    max-width: 100%;
+}
+
+.existing-image {
+    margin-top: 10px;
+}
